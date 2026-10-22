@@ -1,0 +1,781 @@
+ticker,start,end,wiki_name,cik,edgar_name,map_source,n_periodic,name_sim
+A,2015-01-01,2025-12-31,Agilent Technologies,1090872,"AGILENT TECHNOLOGIES, INC.",wikipedia,44,1.0
+AABA,2015-01-01,2017-06-18,,1011006,ALTABA INC.,override,10,
+AAL,2015-03-23,2024-09-22,American Airlines Group,6201,American Airlines Group Inc.,sec_current,38,1.0
+AAP,2015-07-09,2023-08-24,Advance Auto Parts,1158449,ADVANCE AUTO PARTS INC,sec_current,33,1.0
+AAPL,2015-01-01,2025-12-31,Apple Inc.,320193,Apple Inc.,wikipedia,44,1.0
+ABBV,2015-01-01,2025-12-31,AbbVie,1551152,AbbVie Inc.,wikipedia,44,1.0
+ABC,2015-01-01,2023-08-29,,1140859,"Cencora, Inc.",rename_wiki,35,
+ABMD,2018-05-31,2022-12-21,Abiomed,815094,ABIOMED INC,name_search,18,1.0
+ABNB,2023-09-18,2025-12-31,Airbnb,1559720,"Airbnb, Inc.",wikipedia,9,1.0
+ABT,2015-01-01,2025-12-31,Abbott Laboratories,1800,ABBOTT LABORATORIES,wikipedia,44,1.0
+ACGL,2022-11-01,2025-12-31,Arch Capital Group,947484,ARCH CAPITAL GROUP LTD.,wikipedia,13,1.0
+ACN,2015-01-01,2025-12-31,Accenture,1467373,Accenture plc,wikipedia,44,1.0
+ADBE,2015-01-01,2025-12-31,Adobe Inc.,796343,ADOBE INC.,wikipedia,44,1.0
+ADI,2015-01-01,2025-12-31,Analog Devices,6281,ANALOG DEVICES INC,wikipedia,44,1.0
+ADM,2015-01-01,2025-12-31,Archer Daniels Midland,7084,Archer-Daniels-Midland Co,wikipedia,44,1.0
+ADP,2015-01-01,2025-12-31,Automatic Data Processing,8670,AUTOMATIC DATA PROCESSING INC,wikipedia,44,1.0
+ADS,2015-01-01,2020-06-21,Alliance Data Systems,1101215,"BREAD FINANCIAL HOLDINGS, INC.",rename_sec,22,1.0
+ADSK,2015-01-01,2025-12-31,Autodesk,769397,"Autodesk, Inc.",wikipedia,44,1.0
+ADT,2015-01-01,2016-05-01,ADT,1546640,ADT Corp,name_search,5,1.0
+AEE,2015-01-01,2025-12-31,Ameren,1002910,AMEREN CORP,wikipedia,44,1.0
+AEP,2015-01-01,2025-12-31,American Electric Power,4904,AMERICAN ELECTRIC POWER CO INC,wikipedia,44,1.0
+AES,2015-01-01,2025-12-31,AES Corporation,874761,AES CORP,wikipedia,44,1.0
+AET,2015-01-01,2018-11-28,Aetna,1122304,AETNA INC /PA/,name_search,16,1.0
+AFL,2015-01-01,2025-12-31,Aflac,4977,AFLAC INC,wikipedia,44,1.0
+AGN,2015-01-01,2020-05-11,Allergan,1578845,Allergan plc,name_search,22,1.0
+AIG,2015-01-01,2025-12-31,American International Group,5272,"AMERICAN INTERNATIONAL GROUP, INC.",wikipedia,44,1.0
+AIV,2015-01-01,2020-12-20,Apartment Investment & Management,922864,APARTMENT INVESTMENT & MANAGEMENT CO,sec_current,24,1.0
+AIZ,2015-01-01,2025-12-31,Assurant,1267238,"ASSURANT, INC.",wikipedia,44,1.0
+AJG,2016-05-31,2025-12-31,Arthur J. Gallagher & Co.,354190,Arthur J. Gallagher & Co.,wikipedia,38,1.0
+AKAM,2015-01-01,2025-12-31,Akamai Technologies,1086222,AKAMAI TECHNOLOGIES INC,wikipedia,44,1.0
+ALB,2016-07-01,2025-12-31,Albemarle Corporation,915913,ALBEMARLE CORP,wikipedia,38,1.0
+ALGN,2017-06-19,2025-12-31,Align Technology,1097149,ALIGN TECHNOLOGY INC,wikipedia,34,1.0
+ALK,2016-05-13,2023-12-17,Alaska Air Group,766421,"ALASKA AIR GROUP, INC.",sec_current,30,1.0
+ALL,2015-01-01,2025-12-31,Allstate,899051,ALLSTATE CORP,wikipedia,44,1.0
+ALLE,2015-01-01,2025-12-31,Allegion,1579241,Allegion plc,wikipedia,44,1.0
+ALTR,2015-01-01,2015-12-27,Altera,768251,ALTERA CORP,name_search,4,1.0
+ALXN,2015-01-01,2021-07-20,Alexion Pharmaceuticals,899866,"ALEXION PHARMACEUTICALS, INC.",name_search,26,1.0
+AMAT,2015-01-01,2025-12-31,Applied Materials,6951,APPLIED MATERIALS INC /DE,wikipedia,44,1.0
+AMCR,2019-06-07,2025-12-31,Amcor,1748790,Amcor plc,wikipedia,26,1.0
+AMD,2017-03-20,2025-12-31,Advanced Micro Devices,2488,ADVANCED MICRO DEVICES INC,wikipedia,35,1.0
+AME,2015-01-01,2025-12-31,Ametek,1037868,AMETEK INC/,wikipedia,44,1.0
+AMG,2015-01-01,2019-12-22,Affiliated Managers Group,1004434,"AFFILIATED MANAGERS GROUP, INC.",sec_current,20,1.0
+AMGN,2015-01-01,2025-12-31,Amgen,318154,AMGEN INC,wikipedia,44,1.0
+AMP,2015-01-01,2025-12-31,Ameriprise Financial,820027,AMERIPRISE FINANCIAL INC,wikipedia,44,1.0
+AMT,2015-01-01,2025-12-31,American Tower,1053507,AMERICAN TOWER CORP /MA/,wikipedia,44,1.0
+AMTM,2024-09-30,2024-12-22,Amentum,2011286,"Amentum Holdings, Inc.",sec_current,1,1.0
+AMZN,2015-01-01,2025-12-31,Amazon,1018724,AMAZON COM INC,wikipedia,44,1.0
+AN,2015-01-01,2017-08-07,AutoNation,350698,"AUTONATION, INC.",sec_current,11,1.0
+ANDV,2015-01-01,2018-09-30,Andeavor,50104,ANDEAVOR LLC,name_search,15,1.0
+ANET,2018-08-28,2025-12-31,Arista Networks,1596532,"Arista Networks, Inc.",wikipedia,29,1.0
+ANSS,2017-06-19,2025-07-17,Ansys,1013462,ANSYS INC,name_search,32,1.0
+ANTM,2015-01-01,2022-06-27,,1156039,"Elevance Health, Inc.",rename_wiki,30,
+AON,2015-01-01,2025-12-31,Aon plc,315293,Aon plc,wikipedia,44,1.0
+AOS,2017-07-26,2025-12-31,A. O. Smith,91142,SMITH A O CORP,wikipedia,34,1.0
+APA,2015-01-01,2021-02-28,APA Corporation,6769,APACHE CORP,override,25,0.6666666666666666
+APA,2021-03-01,2025-12-31,APA Corporation,1841666,APA Corp,override,19,1.0
+APC,2015-01-01,2019-08-08,Anadarko Petroleum,773910,ANADARKO PETROLEUM CORP,name_search,19,1.0
+APD,2015-01-01,2025-12-31,Air Products,2969,"Air Products & Chemicals, Inc.",wikipedia,44,1.0
+APH,2015-01-01,2025-12-31,Amphenol,820313,AMPHENOL CORP /DE/,wikipedia,44,1.0
+APO,2024-12-23,2025-12-31,Apollo Global Management,1858681,"Apollo Global Management, Inc.",wikipedia,4,1.0
+APP,2025-09-22,2025-12-31,AppLovin,1751008,AppLovin Corp,wikipedia,1,1.0
+APTV,2015-01-01,2025-12-31,Aptiv,1521332,Aptiv PLC,wikipedia,44,1.0
+ARE,2017-03-20,2025-12-31,Alexandria Real Estate Equities,1035443,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",wikipedia,35,1.0
+ARES,2025-12-11,2025-12-31,Ares Management,1176948,Ares Management Corp,wikipedia,0,1.0
+ARG,2015-01-01,2016-05-22,Airgas,804212,AIRGAS INC,name_search,6,1.0
+ARNC,2015-01-01,2020-04-05,Arconic,4281,Howmet Aerospace Inc.,rename_wiki,21,1.0
+ATI,2015-01-01,2015-07-01,Allegheny Technologies,1018963,ATI INC,sec_current,2,1.0
+ATO,2019-02-15,2025-12-31,Atmos Energy,731802,ATMOS ENERGY CORP,wikipedia,27,1.0
+ATVI,2015-08-31,2023-10-17,Activision Blizzard,718877,"Activision Blizzard, Inc.",name_search,32,1.0
+AVB,2015-01-01,2025-12-31,AvalonBay Communities,915912,AVALONBAY COMMUNITIES INC,wikipedia,44,1.0
+AVGO,2015-01-01,2016-01-31,Avago Technologies,1441634,Avago Technologies LTD,override,4,1.0
+AVGO,2016-02-01,2018-04-03,Avago Technologies,1649338,Broadcom Pte. Ltd.,override,9,0.3333333333333333
+AVGO,2018-04-04,2025-12-31,Avago Technologies,1730168,Broadcom Inc.,override,31,0.15384615384615385
+AVP,2015-01-01,2015-03-22,Avon Products,8868,AVON PRODUCTS INC,name_search,1,1.0
+AVY,2015-01-01,2025-12-31,Avery Dennison,8818,Avery Dennison Corp,wikipedia,44,1.0
+AWK,2016-03-04,2025-12-31,American Water Works,1410636,"American Water Works Company, Inc.",wikipedia,39,1.0
+AXON,2023-05-04,2025-12-31,Axon Enterprise,1069183,"AXON ENTERPRISE, INC.",wikipedia,11,1.0
+AXP,2015-01-01,2025-12-31,American Express,4962,AMERICAN EXPRESS CO,wikipedia,44,1.0
+AYI,2016-05-03,2018-06-17,Acuity Brands,1144215,ACUITY INC. (DE),sec_current,8,1.0
+AZO,2015-01-01,2025-12-31,AutoZone,866787,AUTOZONE INC,wikipedia,44,1.0
+BA,2015-01-01,2025-12-31,Boeing,12927,BOEING CO,wikipedia,44,1.0
+BAC,2015-01-01,2025-12-31,Bank of America,70858,BANK OF AMERICA CORP /DE/,wikipedia,44,1.0
+BALL,2022-05-10,2025-12-31,Ball Corporation,9389,BALL Corp,wikipedia,14,1.0
+BAX,2015-01-01,2025-12-31,Baxter International,10456,BAXTER INTERNATIONAL INC,wikipedia,44,1.0
+BBBY,2015-01-01,2017-07-25,Bed Bath & Beyond,886158,"20230930-DK-Butterfly-1, Inc.",fts_ticker,11,1.0
+BBT,2015-01-01,2019-12-08,,92230,TRUIST FINANCIAL CORP,override,20,
+BBWI,2021-08-03,2024-09-30,"Bath & Body Works, Inc.",701985,"Bath & Body Works, Inc.",sec_current,13,1.0
+BBY,2015-01-01,2025-12-31,Best Buy,764478,BEST BUY CO INC,wikipedia,44,1.0
+BCR,2015-01-01,2017-12-28,CR Bard,9892,BARD C R INC /NJ/,override,12,0.5333333333333333
+BDX,2015-01-01,2025-12-31,Becton Dickinson,10795,BECTON DICKINSON & CO,wikipedia,44,1.0
+BEN,2015-01-01,2025-12-31,Franklin Resources,38777,FRANKLIN TEMPLETON INC,wikipedia,44,1.0
+BF.B,2015-01-01,2025-12-31,Brown–Forman,14693,BROWN FORMAN CORP,wikipedia,44,1.0
+BG,2023-03-15,2023-10-31,Bunge Global,1144519,BUNGELTD,override,3,1.0
+BG,2023-11-01,2025-12-31,Bunge Global,1996862,Bunge Global SA,override,8,1.0
+BHF,2017-08-07,2019-04-01,Brighthouse Financial,1685040,"Brighthouse Financial, Inc.",sec_current,7,1.0
+BHGE,2015-01-01,2017-07-02,,808362,Baker Hughes Holdings LLC,override,10,
+BHGE,2017-07-03,2019-10-17,,1701605,Baker Hughes Co,override,9,
+BIIB,2015-01-01,2025-12-31,Biogen,875045,BIOGEN INC.,wikipedia,44,1.0
+BIO,2020-06-22,2024-09-22,Bio-Rad Laboratories,12208,"BIO-RAD LABORATORIES, INC.",sec_current,17,1.0
+BK,2015-01-01,2025-12-31,BNY Mellon,1390777,Bank of New York Mellon Corp,wikipedia,44,0.6896551724137931
+BKNG,2015-01-01,2025-12-31,Booking Holdings,1075531,Booking Holdings Inc.,wikipedia,44,1.0
+BKR,2019-10-18,2025-12-31,Baker Hughes,1701605,Baker Hughes Co,wikipedia,25,1.0
+BLDR,2023-12-18,2025-12-31,Builders FirstSource,1316835,"Builders FirstSource, Inc.",wikipedia,8,1.0
+BLK,2015-01-01,2024-09-30,BlackRock,1364742,"BlackRock Finance, Inc.",override,39,1.0
+BLK,2024-10-01,2025-12-31,BlackRock,2012383,"BlackRock, Inc.",override,5,1.0
+BLL,2015-01-01,2022-05-09,,9389,BALL Corp,rename_wiki,30,
+BMY,2015-01-01,2025-12-31,Bristol Myers Squibb,14272,BRISTOL MYERS SQUIBB CO,wikipedia,44,1.0
+BR,2018-06-18,2025-12-31,Broadridge Financial Solutions,1383312,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",wikipedia,30,1.0
+BRCM,2015-01-01,2016-01-31,Broadcom Corporation,1054374,BROADCOM CORP,fts_ticker,4,1.0
+BRK.B,2015-01-01,2025-12-31,Berkshire Hathaway,1067983,BERKSHIRE HATHAWAY INC,wikipedia,44,1.0
+BRO,2021-09-20,2025-12-31,Brown & Brown,79282,"BROWN & BROWN, INC.",wikipedia,17,1.0
+BSX,2015-01-01,2025-12-31,Boston Scientific,885725,BOSTON SCIENTIFIC CORP,wikipedia,44,1.0
+BWA,2015-01-01,2025-03-23,BorgWarner,908255,BORGWARNER INC,sec_current,41,1.0
+BX,2023-09-18,2025-12-31,Blackstone,1393818,Blackstone Inc.,wikipedia,9,1.0
+BXLT,2015-07-01,2016-06-02,Baxalta,1620546,Baxalta Inc,name_search,4,1.0
+BXP,2015-01-01,2025-12-31,"BXP, Inc.",1037540,"BXP, Inc.",wikipedia,44,1.0
+C,2015-01-01,2025-12-31,Citigroup,831001,CITIGROUP INC,wikipedia,44,1.0
+CA,2015-01-01,2018-11-05,CA Technologies,356028,"CA, INC.",fts_ticker,15,1.0
+CAG,2015-01-01,2025-12-31,Conagra Brands,23217,CONAGRA BRANDS INC.,wikipedia,44,1.0
+CAH,2015-01-01,2025-12-31,Cardinal Health,721371,CARDINAL HEALTH INC,wikipedia,44,1.0
+CAM,2015-01-01,2016-04-03,Cameron International,941548,CAMERON INTERNATIONAL CORP,name_search,5,1.0
+CARR,2020-04-03,2025-12-31,Carrier,1783180,CARRIER GLOBAL Corp,wikipedia,23,1.0
+CAT,2015-01-01,2025-12-31,Caterpillar Inc.,18230,CATERPILLAR INC,wikipedia,44,1.0
+CB,2015-01-01,2025-12-31,Chubb,896159,Chubb Ltd,wikipedia,44,1.0
+CBOE,2017-03-01,2025-12-31,Cboe Holdings,1374310,"Cboe Global Markets, Inc.",wikipedia,35,1.0
+CBRE,2015-01-01,2025-12-31,CBRE Group,1138118,"CBRE GROUP, INC.",wikipedia,44,1.0
+CBS,2015-01-01,2019-12-04,,813828,Paramount Global,override,20,
+CCE,2015-01-01,2016-05-30,Coca-Cola Enterprises,1491675,"COCA-COLA EUROPEAN PARTNERS US, LLC",fts_ticker,6,1.0
+CCEP,2016-01-04,2016-05-30,,,,excluded,0,
+CCI,2015-01-01,2025-12-31,Crown Castle,1051470,CROWN CASTLE INC.,wikipedia,44,1.0
+CCL,2015-01-01,2025-12-31,Carnival Corp.,815097,Carnival Corp Ltd.,wikipedia,44,1.0
+CDAY,2021-09-20,2024-01-31,Ceridian,1725057,"Dayforce, Inc.",fts_ticker,9,1.0
+CDNS,2017-09-18,2025-12-31,Cadence Design Systems,813672,CADENCE DESIGN SYSTEMS INC,wikipedia,33,1.0
+CDW,2019-09-23,2025-12-31,CDW Corporation,1402057,CDW Corp,wikipedia,25,1.0
+CE,2018-12-24,2025-03-23,Celanese,1306830,Celanese Corp,sec_current,25,1.0
+CEG,2022-02-02,2025-12-31,Constellation Energy,1868275,Constellation Energy Corp,wikipedia,16,1.0
+CELG,2015-01-01,2019-11-20,Celgene,816284,CELGENE CORP /DE/,name_search,20,1.0
+CERN,2015-01-01,2022-06-07,Cerner,804753,CERNER Corp,name_search,30,1.0
+CF,2015-01-01,2025-12-31,CF Industries,1324404,"CF Industries Holdings, Inc.",wikipedia,44,1.0
+CFG,2016-02-01,2025-12-31,Citizens,759944,CITIZENS FINANCIAL GROUP INC/RI,wikipedia,40,1.0
+CFN,2015-01-01,2015-03-16,Carefusion,1457543,CAREFUSION Corp,name_search,1,1.0
+CHD,2015-12-29,2025-12-31,Church & Dwight,313927,CHURCH & DWIGHT CO INC /DE/,wikipedia,40,1.0
+CHK,2015-01-01,2018-03-18,Chesapeake Energy,895126,EXPAND ENERGY Corp,fts_ticker,13,1.0
+CHRW,2015-01-01,2025-12-31,C.H. Robinson,1043277,"C. H. ROBINSON WORLDWIDE, INC.",wikipedia,44,1.0
+CHTR,2016-09-08,2025-12-31,Charter Communications,1091667,"CHARTER COMMUNICATIONS, INC. /MO/",wikipedia,37,1.0
+CI,2015-01-01,2018-12-19,Cigna,701221,Cigna Holding Co,override,16,1.0
+CI,2018-12-20,2025-12-31,Cigna,1739940,Cigna Group,override,28,1.0
+CINF,2015-01-01,2025-12-31,Cincinnati Financial,20286,CINCINNATI FINANCIAL CORP,wikipedia,44,1.0
+CL,2015-01-01,2025-12-31,Colgate-Palmolive,21665,COLGATE PALMOLIVE CO,wikipedia,44,1.0
+CLX,2015-01-01,2025-12-31,Clorox,21076,CLOROX CO /DE/,wikipedia,44,1.0
+CMA,2015-01-01,2024-06-23,Comerica,28412,COMERICA INC,name_search,38,1.0
+CMCSA,2015-01-01,2025-12-31,Comcast,1166691,COMCAST CORP,wikipedia,44,1.0
+CMCSK,2015-09-21,2015-12-13,Comcast K Corp,1166691,COMCAST CORP,rename_wiki,1,1.0
+CME,2015-01-01,2025-12-31,CME Group,1156375,CME GROUP INC.,wikipedia,44,1.0
+CMG,2015-01-01,2025-12-31,Chipotle Mexican Grill,1058090,CHIPOTLE MEXICAN GRILL INC,wikipedia,44,1.0
+CMI,2015-01-01,2025-12-31,Cummins,26172,CUMMINS INC,wikipedia,44,1.0
+CMS,2015-01-01,2025-12-31,CMS Energy,811156,CMS ENERGY CORP,wikipedia,44,1.0
+CNC,2016-03-30,2025-12-31,Centene Corporation,1071739,CENTENE CORP,wikipedia,39,1.0
+CNP,2015-01-01,2025-12-31,CenterPoint Energy,1130310,CENTERPOINT ENERGY INC,wikipedia,44,1.0
+CNX,2015-01-01,2016-03-03,Consol Energy,1070412,CNX Resources Corp,sec_current,5,1.0
+COF,2015-01-01,2025-12-31,Capital One,927628,CAPITAL ONE FINANCIAL CORP,wikipedia,44,1.0
+COG,2015-01-01,2021-10-03,Cabot Oil & Gas,858470,Coterra Energy Inc.,rename_wiki,27,1.0
+COIN,2025-05-19,2025-12-31,Coinbase,1679788,"Coinbase Global, Inc.",wikipedia,2,1.0
+COL,2015-01-01,2018-11-26,Rockwell Collins,1137411,ROCKWELL COLLINS INC,name_search,16,1.0
+COO,2016-09-23,2025-12-31,The Cooper Companies,711404,"COOPER COMPANIES, INC.",wikipedia,37,1.0
+COP,2015-01-01,2025-12-31,ConocoPhillips,1163165,CONOCOPHILLIPS,wikipedia,44,1.0
+COR,2023-08-30,2025-12-31,Cencora,1140859,"Cencora, Inc.",wikipedia,9,1.0
+COST,2015-01-01,2025-12-31,Costco,909832,COSTCO WHOLESALE CORP /NEW,wikipedia,44,1.0
+COTY,2016-10-03,2020-09-20,Coty,1024305,COTY INC.,sec_current,16,1.0
+COV,2015-01-01,2015-01-26,Covidien,1385187,Covidien plc,name_search,1,1.0
+CPAY,2024-03-25,2025-12-31,Corpay,1175454,"CORPAY, INC.",wikipedia,7,1.0
+CPB,2015-01-01,2025-12-31,Campbell's Company (The),16732,CAMPBELL'S Co,wikipedia,44,1.0
+CPGX,2015-07-02,2016-06-30,Columbia Pipeline Group,1629995,"Columbia Pipeline Group, Inc.",name_search,4,1.0
+CPRI,2016-01-04,2020-05-11,Capri Holdings,1530721,Capri Holdings Ltd,sec_current,17,1.0
+CPRT,2018-07-02,2025-12-31,Copart,900075,COPART INC,wikipedia,30,1.0
+CPT,2022-04-04,2025-12-31,Camden Property Trust,906345,CAMDEN PROPERTY TRUST,wikipedia,15,1.0
+CRH,2025-12-22,2025-12-31,CRH,,,unmapped,0,
+CRL,2021-05-14,2025-12-31,Charles River Laboratories,1100682,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",wikipedia,18,1.0
+CRM,2015-01-01,2025-12-31,Salesforce,1108524,"Salesforce, Inc.",wikipedia,44,1.0
+CRWD,2024-06-24,2025-12-31,CrowdStrike,1535527,"CrowdStrike Holdings, Inc.",wikipedia,6,1.0
+CSCO,2015-01-01,2025-12-31,Cisco,858877,"CISCO SYSTEMS, INC.",wikipedia,44,1.0
+CSGP,2022-09-19,2025-12-31,CoStar Group,1057352,"COSTAR GROUP, INC.",wikipedia,13,1.0
+CSRA,2015-11-30,2018-04-03,CSRA,1646383,CSRA Inc.,name_search,10,1.0
+CSX,2015-01-01,2025-12-31,CSX Corporation,277948,CSX CORP,wikipedia,44,1.0
+CTAS,2015-01-01,2025-12-31,Cintas,723254,CINTAS CORP,wikipedia,44,1.0
+CTL,2015-01-01,2020-09-17,,18926,"Lumen Technologies, Inc.",rename_sec,23,
+CTLT,2020-09-21,2024-12-22,Catalent,1596783,"Catalent, Inc.",name_search,17,1.0
+CTRA,2021-10-04,2025-12-31,Coterra,858470,Coterra Energy Inc.,wikipedia,17,1.0
+CTSH,2015-01-01,2025-12-31,Cognizant,1058290,COGNIZANT TECHNOLOGY SOLUTIONS CORP,wikipedia,44,1.0
+CTVA,2019-06-03,2025-12-31,Corteva,1755672,"Corteva, Inc.",wikipedia,26,1.0
+CTXS,2015-01-01,2022-10-02,Citrix Systems,877890,CITRIX SYSTEMS INC,name_search,31,1.0
+CVC,2015-01-01,2016-06-20,Cablevision Systems,1053112,CABLEVISION SYSTEMS CORP /NY,name_search,6,1.0
+CVNA,2025-12-22,2025-12-31,Carvana,,,unmapped,0,
+CVS,2015-01-01,2025-12-31,CVS Health,64803,CVS HEALTH Corp,wikipedia,44,1.0
+CVX,2015-01-01,2025-12-31,Chevron Corporation,93410,CHEVRON CORP,wikipedia,44,1.0
+CXO,2016-02-22,2021-01-20,Concho Resources,1358071,CONCHO RESOURCES INC,name_search,20,1.0
+CZR,2021-03-22,2025-09-21,Caesars Entertainment,1590895,"Caesars Entertainment, Inc.",sec_current,18,1.0
+D,2015-01-01,2025-12-31,Dominion Energy,715957,"DOMINION ENERGY, INC",wikipedia,44,1.0
+DAL,2015-01-01,2025-12-31,Delta Air Lines,27904,"DELTA AIR LINES, INC.",wikipedia,44,1.0
+DASH,2025-03-24,2025-12-31,DoorDash,1792789,"DoorDash, Inc.",wikipedia,3,1.0
+DAY,2024-02-01,2025-12-31,Dayforce,1725057,"Dayforce, Inc.",wikipedia,8,1.0
+DD,2015-01-01,2017-08-31,DuPont,30554,"EIDP, Inc.",override,11,1.0
+DD,2019-06-03,2025-12-31,DuPont,1666700,"DuPont de Nemours, Inc.",wikipedia,26,1.0
+DDOG,2025-07-09,2025-12-31,Datadog,1561550,"Datadog, Inc.",wikipedia,2,1.0
+DE,2015-01-01,2025-12-31,Deere & Company,315189,DEERE & CO,wikipedia,44,1.0
+DECK,2024-03-18,2025-12-31,Deckers Brands,910521,DECKERS OUTDOOR CORP,wikipedia,7,0.6206896551724138
+DELL,2024-09-23,2025-12-31,Dell Technologies,1571996,Dell Technologies Inc.,wikipedia,5,1.0
+DFS,2015-01-01,2025-05-18,Discover Financial,1393612,Discover Financial Services,name_search,42,1.0
+DG,2015-01-01,2025-12-31,Dollar General,29534,DOLLAR GENERAL CORP,wikipedia,44,1.0
+DGX,2015-01-01,2025-12-31,Quest Diagnostics,1022079,QUEST DIAGNOSTICS INC,wikipedia,44,1.0
+DHI,2015-01-01,2025-12-31,D. R. Horton,882184,HORTON D R INC /DE/,wikipedia,44,1.0
+DHR,2015-01-01,2025-12-31,Danaher Corporation,313616,DANAHER CORP /DE/,wikipedia,44,1.0
+DIS,2015-01-01,2019-03-19,The Walt Disney Company,1001039,TWDC Enterprises 18 Corp.,override,17,1.0
+DIS,2019-03-20,2025-12-31,The Walt Disney Company,1744489,Walt Disney Co,override,27,1.0
+DISCA,2015-01-01,2022-04-10,"Discovery, Inc.",1437107,"Warner Bros. Discovery, Inc.",rename_wiki,29,1.0
+DISCK,2015-01-01,2022-04-10,"Discovery, Inc.",1437107,"Warner Bros. Discovery, Inc.",rename_wiki,29,1.0
+DISH,2017-03-13,2023-06-19,Dish Network,1001082,DISH Network CORP,name_search,25,1.0
+DLR,2016-05-18,2025-12-31,Digital Realty,1297996,"DIGITAL REALTY TRUST, INC.",wikipedia,38,1.0
+DLTR,2015-01-01,2025-12-31,Dollar Tree,935703,"DOLLAR TREE, INC.",wikipedia,44,1.0
+DNB,2015-01-01,2017-04-04,Dun & Bradstreet,1115222,DUN & BRADSTREET CORP/NW,name_search,9,1.0
+DNR,2015-01-01,2015-03-22,Denbury Resources,945764,DENBURY INC,fts_ticker,1,1.0
+DO,2015-01-01,2016-10-02,Diamond Offshore Drilling,949039,"DIAMOND OFFSHORE DRILLING, INC.",name_search,7,1.0
+DOC,2024-03-04,2025-12-31,Healthpeak Properties,765880,"HEALTHPEAK PROPERTIES, INC.",wikipedia,7,1.0
+DOV,2015-01-01,2025-12-31,Dover Corporation,29905,DOVER Corp,wikipedia,44,1.0
+DOW,2015-01-01,2017-08-31,Dow Chemical Company,29915,DOW CHEMICAL CO /DE/,name_search,11,1.0
+DOW,2019-04-02,2025-12-31,Dow,1751788,DOW INC.,wikipedia,27,1.0
+DPZ,2020-05-12,2025-12-31,Domino's Pizza,1286681,DOMINOS PIZZA INC,wikipedia,22,0.9629629629629629
+DRE,2017-07-26,2022-10-02,Duke Realty Corp,783280,DUKE REALTY CORP,name_search,21,1.0
+DRI,2015-01-01,2025-12-31,Darden Restaurants,940944,DARDEN RESTAURANTS INC,wikipedia,44,1.0
+DTE,2015-01-01,2025-12-31,DTE Energy,936340,DTE ENERGY CO,wikipedia,44,1.0
+DTV,2015-01-01,2015-07-26,DirecTV,1465112,DIRECTV,name_search,2,1.0
+DUK,2015-01-01,2025-12-31,Duke Energy,1326160,Duke Energy CORP,wikipedia,44,1.0
+DVA,2015-01-01,2025-12-31,DaVita,927066,DAVITA INC.,wikipedia,44,1.0
+DVN,2015-01-01,2025-12-31,Devon Energy,1090012,DEVON ENERGY CORP/DE,wikipedia,44,1.0
+DWDP,2017-09-01,2019-06-02,DuPont,1666700,"DuPont de Nemours, Inc.",rename_wiki,7,1.0
+DXC,2015-01-01,2015-11-30,DXC Technology,23082,COMPUTER SCIENCES CORP,override,4,0.3225806451612903
+DXC,2017-04-04,2023-10-01,DXC Technology,1688568,DXC Technology Co,sec_current,25,1.0
+DXCM,2020-05-12,2025-12-31,Dexcom,1093557,DEXCOM INC,wikipedia,22,1.0
+EA,2015-01-01,2025-12-31,Electronic Arts,712515,ELECTRONIC ARTS INC.,wikipedia,44,1.0
+EBAY,2015-01-01,2025-12-31,eBay Inc.,1065088,EBAY INC,wikipedia,44,1.0
+ECL,2015-01-01,2025-12-31,Ecolab,31462,ECOLAB INC.,wikipedia,44,1.0
+ED,2015-01-01,2025-12-31,Consolidated Edison,1047862,CONSOLIDATED EDISON INC,wikipedia,44,1.0
+EFX,2015-01-01,2025-12-31,Equifax,33185,EQUIFAX INC,wikipedia,44,1.0
+EG,2023-07-10,2025-12-31,Everest Group,1095073,"EVEREST GROUP, LTD.",wikipedia,10,1.0
+EIX,2015-01-01,2025-12-31,Edison International,827052,EDISON INTERNATIONAL,wikipedia,44,1.0
+EL,2015-01-01,2025-12-31,Estée Lauder Companies (The),1001250,ESTEE LAUDER COMPANIES INC,wikipedia,44,0.9545454545454546
+ELV,2022-06-28,2025-12-31,Elevance Health,1156039,"Elevance Health, Inc.",wikipedia,14,1.0
+EMC,2015-01-01,2016-09-06,EMC Corporation,790070,EMC CORP,override,7,1.0
+EME,2025-09-22,2025-12-31,Emcor,105634,"EMCOR Group, Inc.",wikipedia,1,1.0
+EMN,2015-01-01,2025-11-03,Eastman Chemical Co.,915389,EASTMAN CHEMICAL CO,sec_current,43,1.0
+EMR,2015-01-01,2025-12-31,Emerson Electric,32604,EMERSON ELECTRIC CO,wikipedia,44,1.0
+ENDP,2015-01-27,2017-03-01,Endo International,1593034,Endo International plc,name_search,9,1.0
+ENPH,2021-01-07,2025-09-21,Enphase Energy,1463101,"Enphase Energy, Inc.",sec_current,19,1.0
+EOG,2015-01-01,2025-12-31,EOG Resources,821189,EOG RESOURCES INC,wikipedia,44,1.0
+EPAM,2021-12-14,2025-12-31,EPAM Systems,1352010,"EPAM Systems, Inc.",wikipedia,16,1.0
+EQIX,2015-03-23,2025-12-31,Equinix,1101239,EQUINIX INC,wikipedia,43,1.0
+EQR,2015-01-01,2025-12-31,Equity Residential,906107,VIVMARK RESIDENTIAL,wikipedia,44,1.0
+EQT,2015-01-01,2018-11-12,EQT Corporation,33213,EQT Corp,wikipedia,16,1.0
+EQT,2022-10-03,2025-12-31,EQT Corporation,33213,EQT Corp,wikipedia,13,1.0
+ERIE,2024-09-23,2025-12-31,Erie Indemnity,922621,ERIE INDEMNITY CO,wikipedia,5,1.0
+ES,2015-01-01,2025-12-31,Eversource Energy,72741,EVERSOURCE ENERGY,wikipedia,44,1.0
+ESRX,2015-01-01,2018-12-20,Express Scripts,1532063,Express Scripts Holding Co.,name_search,16,1.0
+ESS,2015-01-01,2025-12-31,Essex Property Trust,920522,"ESSEX PROPERTY TRUST, INC.",wikipedia,44,1.0
+ESV,2015-01-01,2016-03-29,Ensco,314808,Valaris Ltd,fts_ticker,5,1.0
+ETFC,2015-01-01,2020-10-06,E-Trade,1015780,E TRADE FINANCIAL CORP,fts_ticker,23,1.0
+ETN,2015-01-01,2025-12-31,Eaton Corporation,1551182,Eaton Corp plc,wikipedia,44,1.0
+ETR,2015-01-01,2025-12-31,Entergy,65984,ENTERGY CORP /DE/,wikipedia,44,1.0
+ETSY,2020-09-21,2024-09-22,Etsy,1370637,ETSY INC,sec_current,16,1.0
+EVHC,2016-12-02,2018-10-10,Envision Healthcare,1678531,Envision Healthcare Corp,name_search,7,1.0
+EVRG,2018-06-05,2025-12-31,Evergy,1711269,"Evergy, Inc.",wikipedia,30,1.0
+EW,2015-01-01,2025-12-31,Edwards Lifesciences,1099800,Edwards Lifesciences Corp,wikipedia,44,1.0
+EXC,2015-01-01,2025-12-31,Exelon,1109357,EXELON CORP,wikipedia,44,1.0
+EXE,2025-03-24,2025-12-31,Expand Energy,895126,EXPAND ENERGY Corp,wikipedia,3,1.0
+EXPD,2015-01-01,2025-12-31,Expeditors International,746515,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,wikipedia,44,1.0
+EXPE,2015-01-01,2025-12-31,Expedia,1324424,"Expedia Group, Inc.",wikipedia,44,1.0
+EXR,2016-01-19,2025-12-31,Extra Space Storage,1289490,Extra Space Storage Inc.,wikipedia,40,1.0
+F,2015-01-01,2025-12-31,Ford Motor Company,37996,FORD MOTOR CO,wikipedia,44,1.0
+FANG,2018-12-03,2025-12-31,Diamondback Energy,1539838,"Diamondback Energy, Inc.",wikipedia,28,1.0
+FAST,2015-01-01,2025-12-31,Fastenal,815556,FASTENAL CO,wikipedia,44,1.0
+FB,2015-01-01,2022-06-08,Facebook,1326801,"Meta Platforms, Inc.",rename_wiki,30,1.0
+FBHS,2016-06-24,2022-12-18,Fortune Brands Home & Security,1519751,"Fortune Brands Innovations, Inc.",rename_sec,26,1.0
+FCPT,2015-11-10,2015-11-16,,,,unmapped,0,
+FCX,2015-01-01,2025-12-31,Freeport-McMoRan,831259,FREEPORT-MCMORAN INC,wikipedia,44,1.0
+FDO,2015-01-01,2015-07-06,Family Dollar,34408,FAMILY DOLLAR STORES INC,name_search,3,1.0
+FDS,2021-12-20,2025-12-31,FactSet,1013237,FACTSET RESEARCH SYSTEMS INC,wikipedia,16,1.0
+FDX,2015-01-01,2025-12-31,FedEx,1048911,FEDEX CORP,wikipedia,44,1.0
+FE,2015-01-01,2025-12-31,FirstEnergy,1031296,FIRSTENERGY CORP,wikipedia,44,1.0
+FFIV,2015-01-01,2025-12-31,F5 Networks,1048695,"F5, INC.",wikipedia,44,1.0
+FI,2023-06-07,2025-11-10,,798354,FISERV INC,rename_wiki,10,
+FICO,2023-03-20,2025-12-31,Fair Isaac,814547,FAIR ISAAC CORP,wikipedia,11,1.0
+FIS,2015-01-01,2025-12-31,Fidelity National Information Services,1136893,"Fidelity National Information Services, Inc.",wikipedia,44,1.0
+FISV,2015-01-01,2023-06-06,Fiserv,798354,FISERV INC,wikipedia,34,1.0
+FISV,2025-11-11,2025-12-31,Fiserv,798354,FISERV INC,wikipedia,0,1.0
+FITB,2015-01-01,2025-12-31,Fifth Third Bancorp,35527,FIFTH THIRD BANCORP,wikipedia,44,1.0
+FIX,2025-12-22,2025-12-31,Comfort Systems USA,,,unmapped,0,
+FL,2016-04-04,2019-08-08,Foot Locker,850209,"FOOT LOCKER, INC.",name_search,13,1.0
+FLIR,2015-01-01,2021-05-13,FLIR Systems,354908,"Teledyne FLIR, LLC",fts_ticker,26,1.0
+FLR,2015-01-01,2019-06-02,Fluor Corporation,1124198,FLUOR CORP,sec_current,18,1.0
+FLS,2015-01-01,2021-03-21,Flowserve,30625,FLOWSERVE CORP,sec_current,25,1.0
+FLT,2018-06-20,2024-03-24,FleetCor Technologies,1175454,"CORPAY, INC.",rename_wiki,23,1.0
+FMC,2015-01-01,2025-03-23,FMC Corporation,37785,FMC CORP,sec_current,41,1.0
+FOSL,2015-01-01,2016-01-04,Fossil Group,883569,"Fossil Group, Inc.",sec_current,4,1.0
+FOX,2015-09-21,2019-03-18,Fox Corporation,1308161,"TWENTY-FIRST CENTURY FOX, INC.",override,14,1.0
+FOX,2019-03-19,2025-12-31,Fox Corporation,1754301,Fox Corp,override,27,1.0
+FOXA,2015-01-01,2019-03-18,Fox Corporation,1308161,"TWENTY-FIRST CENTURY FOX, INC.",override,17,1.0
+FOXA,2019-03-19,2025-12-31,Fox Corporation,1754301,Fox Corp,override,27,1.0
+FRC,2019-01-02,2023-05-03,First Republic Bank,,,excluded,0,
+FRT,2016-02-01,2025-12-31,Federal Realty Investment Trust,34903,FEDERAL REALTY INVESTMENT TRUST,wikipedia,40,1.0
+FSLR,2015-01-01,2017-03-19,First Solar,1274494,"FIRST SOLAR, INC.",wikipedia,9,1.0
+FSLR,2022-12-19,2025-12-31,First Solar,1274494,"FIRST SOLAR, INC.",wikipedia,12,1.0
+FTI,2015-01-01,2017-01-16,TechnipFMC,1135152,FMC TECHNOLOGIES INC,override,8,0.46153846153846156
+FTI,2017-01-17,2021-02-11,TechnipFMC,1681459,TechnipFMC plc,override,15,1.0
+FTNT,2018-10-11,2025-12-31,Fortinet,1262039,"Fortinet, Inc.",wikipedia,29,1.0
+FTR,2015-01-01,2017-03-19,Frontier Communications,20520,"Frontier Communications Parent, Inc.",name_search,9,1.0
+FTV,2016-07-05,2025-12-31,Fortive Corp,1659166,Fortive Corp,wikipedia,38,1.0
+GAS,2015-01-01,2016-06-30,AGL Resources,1004155,SOUTHERN CO GAS,fts_ticker,6,1.0
+GD,2015-01-01,2025-12-31,General Dynamics,40533,GENERAL DYNAMICS CORP,wikipedia,44,1.0
+GDDY,2024-06-24,2025-12-31,GoDaddy,1609711,GoDaddy Inc.,wikipedia,6,1.0
+GE,2015-01-01,2025-12-31,GE Aerospace,40545,GENERAL ELECTRIC CO,wikipedia,44,0.42857142857142855
+GEHC,2023-01-04,2025-12-31,GE HealthCare,1932393,GE HealthCare Technologies Inc.,wikipedia,12,1.0
+GEN,2022-11-08,2025-12-31,Gen Digital,849399,Gen Digital Inc.,wikipedia,13,1.0
+GEV,2024-04-02,2025-12-31,GE Vernova,1996810,GE Vernova Inc.,wikipedia,7,1.0
+GGP,2015-01-01,2018-08-27,GGP,1496048,Brookfield Property REIT Inc.,fts_ticker,15,1.0
+GILD,2015-01-01,2025-12-31,Gilead Sciences,882095,"GILEAD SCIENCES, INC.",wikipedia,44,1.0
+GIS,2015-01-01,2025-12-31,General Mills,40704,GENERAL MILLS INC,wikipedia,44,1.0
+GL,2019-08-08,2025-12-31,Globe Life,320335,GLOBE LIFE INC.,wikipedia,26,1.0
+GLW,2015-01-01,2025-12-31,Corning Inc.,24741,CORNING INC /NY,wikipedia,44,1.0
+GM,2015-01-01,2025-12-31,General Motors,1467858,General Motors Co,wikipedia,44,1.0
+GMCR,2015-01-01,2016-03-02,Keurig Green Mountain,909954,"KEURIG GREEN MOUNTAIN, INC.",name_search,5,1.0
+GME,2015-01-01,2016-04-24,GameStop,1326380,GameStop Corp.,sec_current,5,1.0
+GNRC,2021-03-22,2025-12-31,Generac Holdings,1474735,GENERAC HOLDINGS INC.,wikipedia,19,1.0
+GNW,2015-01-01,2015-11-17,Genworth Financial,1276520,GENWORTH FINANCIAL INC,sec_current,4,1.0
+GOOG,2015-01-01,2015-10-01,Alphabet Inc. (Class C),1288776,GOOGLE INC.,override,3,0.2857142857142857
+GOOG,2015-10-02,2025-12-31,Alphabet Inc. (Class C),1652044,Alphabet Inc.,override,41,1.0
+GOOGL,2015-01-01,2015-10-01,Google,1288776,GOOGLE INC.,override,3,1.0
+GOOGL,2015-10-02,2025-12-31,Google,1652044,Alphabet Inc.,override,41,0.2857142857142857
+GPC,2015-01-01,2025-12-31,Genuine Parts Company,40987,GENUINE PARTS CO,wikipedia,44,1.0
+GPN,2016-04-25,2025-12-31,Global Payments,1123360,GLOBAL PAYMENTS INC,wikipedia,39,1.0
+GPS,2015-01-01,2022-02-01,Gap,39911,GAP INC,rename_sec,28,1.0
+GRMN,2015-01-01,2025-12-31,Garmin,1121788,GARMIN LTD,wikipedia,44,1.0
+GS,2015-01-01,2025-12-31,Goldman Sachs,886982,GOLDMAN SACHS GROUP INC,wikipedia,44,1.0
+GT,2015-01-01,2019-02-26,The Goodyear Tire & Rubber Company,42582,GOODYEAR TIRE & RUBBER CO /OH/,sec_current,17,1.0
+GWW,2015-01-01,2025-12-31,W. W. Grainger,277135,"W.W. GRAINGER, INC.",wikipedia,44,1.0
+HAL,2015-01-01,2025-12-31,Halliburton,45012,HALLIBURTON CO,wikipedia,44,1.0
+HAR,2015-01-01,2017-03-12,Harman International,800459,HARMAN INTERNATIONAL INDUSTRIES INC /DE/,name_search,9,1.0
+HAS,2015-01-01,2025-12-31,Hasbro,46080,"HASBRO, INC.",wikipedia,44,1.0
+HBAN,2015-01-01,2025-12-31,Huntington Bancshares,49196,HUNTINGTON BANCSHARES INC /MD/,wikipedia,44,1.0
+HBI,2015-03-23,2021-12-19,Hanesbrands,1359841,Hanesbrands Inc.,name_search,27,1.0
+HCA,2015-01-27,2025-12-31,HCA Holdings,860730,"HCA Healthcare, Inc.",wikipedia,44,1.0
+HCBK,2015-01-01,2015-11-01,Hudson City Bancorp,921847,HUDSON CITY BANCORP INC,name_search,3,1.0
+HCP,2015-01-01,2019-11-04,,765880,"HEALTHPEAK PROPERTIES, INC.",rename_wiki,20,
+HD,2015-01-01,2025-12-31,Home Depot (The),354950,"HOME DEPOT, INC.",wikipedia,44,1.0
+HES,2015-01-01,2025-07-22,Hess Corporation,4447,HESS CORP,fts_ticker,42,1.0
+HFC,2018-06-18,2021-06-03,HollyFrontier,48039,HollyFrontier Corp,name_search,12,1.0
+HIG,2015-01-01,2025-12-31,Hartford (The),874766,"HARTFORD INSURANCE GROUP, INC.",wikipedia,44,1.0
+HII,2018-01-03,2025-12-31,Huntington Ingalls Industries,1501585,"HUNTINGTON INGALLS INDUSTRIES, INC.",wikipedia,32,1.0
+HLT,2017-06-19,2025-12-31,Hilton,1585689,Hilton Worldwide Holdings Inc.,wikipedia,34,1.0
+HOG,2015-01-01,2020-06-21,Harley-Davidson,793952,"HARLEY-DAVIDSON, INC.",sec_current,22,1.0
+HOLX,2016-03-30,2025-12-31,Hologic,859737,HOLOGIC INC,wikipedia,39,1.0
+HON,2015-01-01,2025-12-31,Honeywell,773840,HONEYWELL INTERNATIONAL INC,wikipedia,44,1.0
+HOOD,2025-09-22,2025-12-31,Robinhood Markets,1783879,"Robinhood Markets, Inc.",wikipedia,1,1.0
+HOT,2015-01-01,2016-09-22,Starwood,316206,"STARWOOD HOTELS & RESORTS WORLDWIDE, LLC",override,7,1.0
+HP,2015-01-01,2020-05-21,Helmerich & Payne,46765,"Helmerich & Payne, Inc.",sec_current,22,1.0
+HPE,2015-11-02,2025-12-31,Hewlett Packard Enterprise,1645590,Hewlett Packard Enterprise Co,wikipedia,41,1.0
+HPQ,2015-01-01,2025-12-31,HP Inc.,47217,HP INC,wikipedia,44,1.0
+HRB,2015-01-01,2020-09-20,H&R Block,12659,H&R BLOCK INC,sec_current,23,1.0
+HRL,2015-01-01,2025-12-31,Hormel Foods,48465,HORMEL FOODS CORP /DE/,wikipedia,44,1.0
+HRS,2015-01-01,2019-05-31,Harris Corporation,202058,"L3HARRIS TECHNOLOGIES, INC. /DE/",rename_wiki,18,1.0
+HSIC,2015-03-18,2025-12-31,Henry Schein,1000228,HENRY SCHEIN INC,wikipedia,43,1.0
+HSP,2015-01-01,2015-09-02,Hospira,1274057,HOSPIRA INC,name_search,3,1.0
+HST,2015-01-01,2025-12-31,Host Hotels & Resorts,1070750,"HOST HOTELS & RESORTS, INC.",wikipedia,44,1.0
+HSY,2015-01-01,2025-12-31,Hershey Company (The),47111,HERSHEY CO,wikipedia,44,1.0
+HUBB,2023-10-18,2025-12-31,Hubbell,48898,HUBBELL INC,wikipedia,9,1.0
+HUM,2015-01-01,2025-12-31,Humana,49071,HUMANA INC,wikipedia,44,1.0
+HWM,2020-04-06,2025-12-31,Howmet Aerospace,4281,Howmet Aerospace Inc.,wikipedia,23,1.0
+IBKR,2025-08-28,2025-12-31,Interactive Brokers,1381197,"Interactive Brokers Group, Inc.",wikipedia,1,1.0
+IBM,2015-01-01,2025-12-31,IBM,51143,INTERNATIONAL BUSINESS MACHINES CORP,wikipedia,44,0.2
+ICE,2015-01-01,2025-12-31,Intercontinental Exchange,1571949,"Intercontinental Exchange, Inc.",wikipedia,44,1.0
+IDXX,2017-01-05,2025-12-31,Idexx Laboratories,874716,IDEXX LABORATORIES INC /DE,wikipedia,36,1.0
+IEX,2019-08-09,2025-12-31,IDEX Corporation,832101,IDEX CORP /DE/,wikipedia,25,1.0
+IFF,2015-01-01,2025-12-31,International Flavors & Fragrances,51253,INTERNATIONAL FLAVORS & FRAGRANCES INC,wikipedia,44,1.0
+ILMN,2015-11-19,2024-06-23,Illumina,1110803,"ILLUMINA, INC.",sec_current,34,1.0
+INCY,2017-02-28,2025-12-31,Incyte,879169,INCYTE CORP,wikipedia,35,1.0
+INFO,2017-06-02,2022-03-01,IHS Markit,1598014,IHS Markit Ltd.,name_search,19,1.0
+INTC,2015-01-01,2025-12-31,Intel,50863,INTEL CORP,wikipedia,44,1.0
+INTU,2015-01-01,2025-12-31,Intuit,896878,INTUIT INC.,wikipedia,44,1.0
+INVH,2022-09-19,2025-12-31,Invitation Homes,1687229,Invitation Homes Inc.,wikipedia,13,1.0
+IP,2015-01-01,2025-12-31,International Paper,51434,INTERNATIONAL PAPER CO /NEW/,wikipedia,44,1.0
+IPG,2015-01-01,2025-11-27,Interpublic Group,51644,"INTERPUBLIC GROUP OF COMPANIES, INC.",name_search,44,1.0
+IPGP,2018-03-07,2022-06-20,IPG Photonics,1111928,IPG PHOTONICS CORP,sec_current,17,1.0
+IQV,2017-08-29,2025-12-31,IQVIA,1478242,IQVIA HOLDINGS INC.,wikipedia,33,1.0
+IR,2015-01-01,2020-03-01,Ingersoll Rand,1466258,Trane Technologies plc,override,21,1.0
+IR,2020-03-02,2025-12-31,Ingersoll Rand,1699150,Ingersoll Rand Inc.,override,23,1.0
+IRM,2015-01-01,2025-12-31,Iron Mountain,1020569,IRON MOUNTAIN INC,wikipedia,44,1.0
+ISRG,2015-01-01,2025-12-31,Intuitive Surgical,1035267,INTUITIVE SURGICAL INC,wikipedia,44,1.0
+IT,2017-04-05,2025-12-31,Gartner,749251,GARTNER INC,wikipedia,35,1.0
+ITW,2015-01-01,2025-12-31,Illinois Tool Works,49826,ILLINOIS TOOL WORKS INC,wikipedia,44,1.0
+IVZ,2015-01-01,2025-12-31,Invesco,914208,Invesco Ltd.,wikipedia,44,1.0
+J,2019-12-10,2025-12-31,Jacobs Solutions,52988,JACOBS SOLUTIONS INC.,wikipedia,24,1.0
+JBHT,2015-07-01,2025-12-31,J.B. Hunt,728535,HUNT J B TRANSPORT SERVICES INC,wikipedia,42,1.0
+JBL,2023-12-18,2025-12-31,Jabil,898293,JABIL INC,wikipedia,8,1.0
+JCI,2015-01-01,2025-12-31,Johnson Controls,833444,Johnson Controls International plc,wikipedia,44,1.0
+JEC,2015-01-01,2019-12-09,Jacobs Engineering Group,52988,JACOBS SOLUTIONS INC.,rename_wiki,20,1.0
+JEF,2015-01-01,2019-09-25,Jefferies Financial Group,96223,Jefferies Financial Group Inc.,sec_current,19,1.0
+JKHY,2018-11-13,2025-12-31,Jack Henry & Associates,779152,JACK HENRY & ASSOCIATES INC,wikipedia,28,1.0
+JNJ,2015-01-01,2025-12-31,Johnson & Johnson,200406,JOHNSON & JOHNSON,wikipedia,44,1.0
+JNPR,2015-01-01,2025-07-08,Juniper Networks,1043604,JUNIPER NETWORKS INC,name_search,42,1.0
+JOY,2015-01-01,2015-10-07,Joy Global,801898,JOY GLOBAL INC,name_search,3,1.0
+JPM,2015-01-01,2025-12-31,JPMorgan Chase,19617,JPMORGAN CHASE & CO,wikipedia,44,1.0
+JWN,2015-01-01,2020-06-21,Nordstrom,72333,NORDSTROM INC,name_search,22,1.0
+K,2015-01-01,2025-12-10,Kellanova,55067,KELLANOVA,name_search,44,1.0
+KDP,2015-01-01,2018-07-01,Keurig Dr Pepper,1418135,Keurig Dr Pepper Inc.,wikipedia,14,1.0
+KDP,2022-06-21,2025-12-31,Keurig Dr Pepper,1418135,Keurig Dr Pepper Inc.,wikipedia,14,1.0
+KEY,2015-01-01,2025-12-31,KeyCorp,91576,KEYCORP /NEW/,wikipedia,44,1.0
+KEYS,2018-11-06,2025-12-31,Keysight,1601046,"Keysight Technologies, Inc.",wikipedia,29,1.0
+KHC,2015-07-06,2025-12-31,Kraft Heinz,1637459,Kraft Heinz Co,wikipedia,42,1.0
+KIM,2015-01-01,2025-12-31,Kimco Realty,879101,KIMCO REALTY CORP,wikipedia,44,1.0
+KKR,2024-06-24,2025-12-31,KKR,1404912,KKR & Co. Inc.,wikipedia,6,1.0
+KLAC,2015-01-01,2025-12-31,KLA Corporation,319201,KLA CORP,wikipedia,44,1.0
+KMB,2015-01-01,2025-12-31,Kimberly-Clark,55785,KIMBERLY CLARK CORP,wikipedia,44,1.0
+KMI,2015-01-01,2025-12-31,Kinder Morgan,1506307,"KINDER MORGAN, INC.",wikipedia,44,1.0
+KMX,2015-01-01,2025-10-30,CarMax,1170010,CARMAX INC,sec_current,44,1.0
+KO,2015-01-01,2025-12-31,Coca-Cola Company (The),21344,COCA COLA CO,wikipedia,44,1.0
+KORS,2015-01-01,2018-09-18,Michael Kors,1530721,Capri Holdings Ltd,rename_sec,15,1.0
+KR,2015-01-01,2025-12-31,Kroger,56873,KROGER CO,wikipedia,44,1.0
+KRFT,2015-01-01,2015-07-05,Kraft Foods,1545158,"Kraft Foods Group, Inc.",name_search,2,1.0
+KSS,2015-01-01,2020-09-20,Kohl's,885639,KOHLS Corp,sec_current,23,0.9090909090909091
+KSU,2015-01-01,2021-12-13,Kansas City Southern,54480,KANSAS CITY SOUTHERN,name_search,28,1.0
+KVUE,2023-08-25,2025-12-31,Kenvue,1944048,Kenvue Inc.,wikipedia,9,1.0
+L,2015-01-01,2025-12-31,Loews Corporation,60086,LOEWS CORP,wikipedia,44,1.0
+LB,2015-01-01,2021-08-02,,701985,"Bath & Body Works, Inc.",rename_sec,26,
+LDOS,2019-08-09,2025-12-31,Leidos,1336920,"Leidos Holdings, Inc.",wikipedia,25,1.0
+LEG,2015-01-01,2021-12-19,Leggett & Platt,58492,LEGGETT & PLATT INC,name_search,28,1.0
+LEN,2015-01-01,2025-12-31,Lennar,920760,LENNAR CORP /NEW/,wikipedia,44,1.0
+LH,2015-01-01,2025-12-31,Labcorp,920148,LABCORP HOLDINGS INC.,wikipedia,44,1.0
+LHX,2019-06-01,2025-12-31,L3Harris,202058,"L3HARRIS TECHNOLOGIES, INC. /DE/",wikipedia,26,1.0
+LII,2024-12-23,2025-12-31,Lennox International,1069202,LENNOX INTERNATIONAL INC,wikipedia,4,1.0
+LIN,2018-11-06,2025-12-31,Linde plc,1707925,LINDE PLC,wikipedia,29,1.0
+LKQ,2016-05-23,2025-12-21,LKQ Corporation,1065696,LKQ CORP,sec_current,38,1.0
+LLL,2015-01-01,2019-06-30,L3 Technologies,1039101,"L3 TECHNOLOGIES, INC.",name_search,18,1.0
+LLTC,2015-01-01,2017-03-12,Linear Technology,791907,LINEAR TECHNOLOGY CORP /CA/,name_search,9,1.0
+LLY,2015-01-01,2025-12-31,Lilly (Eli),59478,ELI LILLY & Co,wikipedia,44,1.0
+LM,2015-01-01,2016-12-01,Legg Mason,704051,"LEGG MASON, INC.",name_search,8,1.0
+LMT,2015-01-01,2025-12-31,Lockheed Martin,936468,LOCKHEED MARTIN CORP,wikipedia,44,1.0
+LNC,2015-01-01,2023-09-17,Lincoln National Corporation,59558,LINCOLN NATIONAL CORP,sec_current,35,1.0
+LNT,2016-07-01,2025-12-31,Alliant Energy Corp,352541,ALLIANT ENERGY CORP,wikipedia,38,1.0
+LO,2015-01-01,2015-06-11,Lorillard Tobacco Company,1424847,"LORILLARD, LLC",override,2,1.0
+LOW,2015-01-01,2025-12-31,Lowe's,60667,LOWES COMPANIES INC,wikipedia,44,0.5714285714285714
+LRCX,2015-01-01,2025-12-31,Lam Research,707549,LAM RESEARCH CORP,wikipedia,44,1.0
+LULU,2023-10-18,2025-12-31,Lululemon Athletica,1397187,lululemon athletica inc.,wikipedia,9,1.0
+LUMN,2020-09-18,2023-03-19,Lumen Technologies,18926,"Lumen Technologies, Inc.",sec_current,10,1.0
+LUV,2015-01-01,2025-12-31,Southwest Airlines,92380,SOUTHWEST AIRLINES CO,wikipedia,44,1.0
+LVLT,2015-01-01,2017-10-12,Level 3 Communications,794323,"Level 3 Parent, LLC",name_search,11,1.0
+LVS,2019-10-03,2025-12-31,Las Vegas Sands,1300514,LAS VEGAS SANDS CORP,wikipedia,25,1.0
+LW,2018-12-03,2025-12-31,Lamb Weston,1679273,"Lamb Weston Holdings, Inc.",wikipedia,29,1.0
+LYB,2015-01-01,2025-12-31,LyondellBasell,1489393,LyondellBasell Industries N.V.,wikipedia,44,1.0
+LYV,2019-12-23,2025-12-31,Live Nation Entertainment,1335258,"Live Nation Entertainment, Inc.",wikipedia,24,1.0
+M,2015-01-01,2020-04-05,Macy's,794367,"Macy's, Inc.",sec_current,21,1.0
+MA,2015-01-01,2025-12-31,Mastercard,1141391,Mastercard Inc,wikipedia,44,1.0
+MAA,2016-12-02,2025-12-31,Mid-America Apartments,912595,MID AMERICA APARTMENT COMMUNITIES INC.,wikipedia,36,0.8
+MAC,2015-01-01,2019-12-22,Macerich,912242,MACERICH CO,sec_current,20,1.0
+MAR,2015-01-01,2025-12-31,Marriott International,1048286,MARRIOTT INTERNATIONAL INC /MD/,wikipedia,44,1.0
+MAS,2015-01-01,2025-12-31,Masco,62996,MASCO CORP /DE/,wikipedia,44,1.0
+MAT,2015-01-01,2019-06-06,Mattel,63276,MATTEL INC /DE/,sec_current,18,1.0
+MCD,2015-01-01,2025-12-31,McDonald's,63908,MCDONALDS CORP,wikipedia,44,0.9473684210526315
+MCHP,2015-01-01,2025-12-31,Microchip Technology,827054,MICROCHIP TECHNOLOGY INC,wikipedia,44,1.0
+MCK,2015-01-01,2025-12-31,McKesson,927653,MCKESSON CORP,wikipedia,44,1.0
+MCO,2015-01-01,2025-12-31,Moody's Corporation,1059556,MOODYS CORP /DE/,wikipedia,44,0.9230769230769231
+MDLZ,2015-01-01,2025-12-31,Mondelez,1103982,"Mondelez International, Inc.",wikipedia,44,1.0
+MDT,2015-01-01,2025-12-31,Medtronic,1613103,Medtronic plc,wikipedia,44,1.0
+MET,2015-01-01,2025-12-31,MetLife,1099219,METLIFE INC,wikipedia,44,1.0
+META,2022-06-09,2025-12-31,Meta Platforms,1326801,"Meta Platforms, Inc.",wikipedia,14,1.0
+MGM,2017-07-26,2025-12-31,MGM Resorts International,789570,MGM Resorts International,wikipedia,34,1.0
+MHK,2015-01-01,2025-12-21,Mohawk Industries,851968,MOHAWK INDUSTRIES INC,sec_current,44,1.0
+MJN,2015-01-01,2017-06-14,Mead Johnson,1452575,Mead Johnson Nutrition Co,name_search,10,1.0
+MKC,2015-01-01,2025-12-31,McCormick & Company,63754,MCCORMICK & CO INC,wikipedia,44,1.0
+MKTX,2019-07-01,2025-09-21,MarketAxess,1278021,MARKETAXESS HOLDINGS INC,sec_current,25,1.0
+MLM,2015-01-01,2025-12-31,Martin Marietta,916076,MARTIN MARIETTA MATERIALS INC,wikipedia,44,1.0
+MMC,2015-01-01,2025-12-31,Marsh McLennan,62709,"MARSH & MCLENNAN COMPANIES, INC.",wikipedia,44,1.0
+MMM,2015-01-01,2025-12-31,3M,66740,3M CO,wikipedia,44,1.0
+MNK,2015-01-01,2017-07-25,Mallinckrodt,1567892,Keenova Therapeutics plc,fts_ticker,9,1.0
+MNST,2015-01-01,2025-12-31,Monster Beverage,865752,Monster Beverage Corp,wikipedia,44,1.0
+MO,2015-01-01,2025-12-31,Altria,764180,"ALTRIA GROUP, INC.",wikipedia,44,1.0
+MOH,2022-03-02,2025-12-31,Molina Healthcare,1179929,"MOLINA HEALTHCARE, INC.",wikipedia,15,1.0
+MON,2015-01-01,2018-06-06,Monsanto,1110783,MONSANTO CO /NEW/,name_search,14,1.0
+MOS,2015-01-01,2025-12-31,The Mosaic Company,1285785,MOSAIC CO,wikipedia,44,1.0
+MPC,2015-01-01,2025-12-31,Marathon Oil,1510295,Marathon Petroleum Corp,wikipedia,44,0.7333333333333333
+MPWR,2021-02-12,2025-12-31,Monolithic Power Systems,1280452,"MONOLITHIC POWER SYSTEMS, INC.",wikipedia,20,1.0
+MRK,2015-01-01,2025-12-31,Merck & Co.,310158,"Merck & Co., Inc.",wikipedia,44,1.0
+MRNA,2021-07-21,2025-12-31,Moderna,1682852,"Moderna, Inc.",wikipedia,18,1.0
+MRO,2015-01-01,2024-11-25,Marathon Oil,101778,MARATHON OIL CORP,name_search,40,1.0
+MS,2015-01-01,2025-12-31,Morgan Stanley,895421,MORGAN STANLEY,wikipedia,44,1.0
+MSCI,2018-04-04,2025-12-31,MSCI,1408198,MSCI Inc.,wikipedia,31,1.0
+MSFT,2015-01-01,2025-12-31,Microsoft,789019,MICROSOFT CORP,wikipedia,44,1.0
+MSI,2015-01-01,2025-12-31,Motorola Solutions,68505,"Motorola Solutions, Inc.",wikipedia,44,1.0
+MTB,2015-01-01,2025-12-31,M&T Bank,36270,M&T BANK CORP,wikipedia,44,1.0
+MTCH,2021-09-20,2025-12-31,Match Group,891103,"Match Group, Inc.",wikipedia,17,1.0
+MTD,2016-09-06,2025-12-31,Mettler Toledo,1037646,METTLER TOLEDO INTERNATIONAL INC/,wikipedia,37,1.0
+MU,2015-01-01,2025-12-31,Micron Technology,723125,MICRON TECHNOLOGY INC,wikipedia,45,1.0
+MUR,2015-01-01,2017-07-25,Murphy Oil,717423,MURPHY OIL CORP,sec_current,10,1.0
+MWV,2015-01-01,2015-07-01,,1159297,MEADWESTVACO Corp,override,2,
+MXIM,2018-12-03,2021-08-29,Maxim Integrated,743316,MAXIM INTEGRATED PRODUCTS INC,name_search,11,1.0
+MYL,2015-01-01,2015-02-27,,69499,MYLAN INC.,override,0,
+MYL,2015-02-28,2020-11-16,,1623613,Mylan II B.V.,override,23,
+NAVI,2015-01-01,2018-06-04,Navient,1593538,NAVIENT CORP,sec_current,14,1.0
+NBL,2015-01-01,2020-10-11,Noble Energy,72207,NOBLE ENERGY INC,name_search,23,1.0
+NBR,2015-01-01,2015-03-22,Nabors Industries,1163739,NABORS INDUSTRIES LTD,sec_current,1,1.0
+NCLH,2017-10-13,2025-12-31,Norwegian Cruise Line Holdings,1513761,Norwegian Cruise Line Holdings Ltd.,wikipedia,33,1.0
+NDAQ,2015-01-01,2025-12-31,"Nasdaq, Inc.",1120193,"NASDAQ, INC.",wikipedia,44,1.0
+NDSN,2022-02-15,2025-12-31,Nordson Corporation,72331,NORDSON CORP,wikipedia,16,1.0
+NE,2015-01-01,2015-07-19,Noble Corporation,1458891,Noble Corp,override,2,1.0
+NEE,2015-01-01,2025-12-31,NextEra Energy,753308,NEXTERA ENERGY INC,wikipedia,44,1.0
+NEM,2015-01-01,2025-12-31,Newmont,1164727,NEWMONT Corp /DE/,wikipedia,44,1.0
+NFLX,2015-01-01,2025-12-31,Netflix,1065280,NETFLIX INC,wikipedia,44,1.0
+NFX,2015-01-01,2019-02-14,Newfield Exploration,912750,NEWFIELD EXPLORATION CO /DE/,name_search,16,1.0
+NI,2015-01-01,2025-12-31,NiSource,1111711,NISOURCE INC.,wikipedia,44,1.0
+NKE,2015-01-01,2025-12-31,"Nike, Inc.",320187,"NIKE, Inc.",wikipedia,45,1.0
+NKTR,2018-03-19,2019-10-02,Nektar Therapeutics,906709,NEKTAR THERAPEUTICS,sec_current,6,1.0
+NLOK,2019-11-05,2022-11-07,,849399,Gen Digital Inc.,rename_wiki,12,
+NLSN,2015-01-01,2022-10-11,Nielsen Holdings,1492633,Nielsen Holdings plc,name_search,31,1.0
+NOC,2015-01-01,2025-12-31,Northrop Grumman,1133421,NORTHROP GRUMMAN CORP /DE/,wikipedia,44,1.0
+NOV,2015-01-01,2021-09-19,Nov,1021860,NOV Inc.,sec_current,27,1.0
+NOW,2019-11-21,2025-12-31,ServiceNow,1373715,"ServiceNow, Inc.",wikipedia,24,1.0
+NRG,2015-01-01,2025-12-31,NRG Energy,1013871,"NRG ENERGY, INC.",wikipedia,44,1.0
+NSC,2015-01-01,2025-12-31,Norfolk Southern,702165,NORFOLK SOUTHERN CORP,wikipedia,44,1.0
+NTAP,2015-01-01,2025-12-31,NetApp,1002047,"NetApp, Inc.",wikipedia,44,1.0
+NTRS,2015-01-01,2025-12-31,Northern Trust,73124,NORTHERN TRUST CORP,wikipedia,44,1.0
+NUE,2015-01-01,2025-12-31,Nucor,73309,NUCOR CORP,wikipedia,44,1.0
+NVDA,2015-01-01,2025-12-31,Nvidia,1045810,NVIDIA CORP,wikipedia,44,1.0
+NVR,2019-09-26,2025-12-31,NVR,906163,NVR INC,wikipedia,25,1.0
+NWL,2015-01-01,2023-09-17,Newell Brands,814453,NEWELL BRANDS INC.,sec_current,35,1.0
+NWS,2015-09-21,2025-12-31,News Corporation Class B,1564708,NEWS CORP,wikipedia,41,1.0
+NWSA,2015-01-01,2025-12-31,21st Century Fox,1564708,NEWS CORP,wikipedia,44,0.25
+NXPI,2021-03-22,2025-12-31,NXP,1413447,NXP Semiconductors N.V.,wikipedia,19,1.0
+O,2015-04-07,2025-12-31,Realty Income Corporation,726728,REALTY INCOME CORP,wikipedia,43,1.0
+ODFL,2019-12-09,2025-12-31,Old Dominion Freight Line,878927,"OLD DOMINION FREIGHT LINE, INC.",wikipedia,24,1.0
+OGN,2021-06-04,2023-10-17,Organon & Co.,1821825,Organon & Co.,sec_current,10,1.0
+OI,2015-01-01,2016-12-01,Owens-Illinois,812074,"O-I Glass, Inc. /DE/",sec_current,8,1.0
+OKE,2015-01-01,2025-12-31,Oneok,1039684,ONEOK INC /NEW/,wikipedia,44,1.0
+OMC,2015-01-01,2025-12-31,Omnicom Group,29989,OMNICOM GROUP INC.,wikipedia,44,1.0
+ON,2022-06-21,2025-12-31,ON Semiconductor,1097864,ON SEMICONDUCTOR CORP,wikipedia,14,1.0
+ORCL,2015-01-01,2025-12-31,Oracle Corporation,1341439,ORACLE CORP,wikipedia,44,1.0
+ORLY,2015-01-01,2025-12-31,O’Reilly Automotive,898173,O REILLY AUTOMOTIVE INC,wikipedia,44,1.0
+OTIS,2020-04-03,2025-12-31,Otis Worldwide,1781335,Otis Worldwide Corp,wikipedia,23,1.0
+OXY,2015-01-01,2025-12-31,Occidental Petroleum,797468,OCCIDENTAL PETROLEUM CORP /DE/,wikipedia,44,1.0
+PANW,2023-06-20,2025-12-31,Palo Alto Networks,1327567,Palo Alto Networks Inc,wikipedia,10,1.0
+PARA,2022-02-17,2025-08-07,,813828,Paramount Global,override,14,
+PAYC,2020-01-28,2025-12-31,Paycom,1590955,"Paycom Software, Inc.",wikipedia,24,1.0
+PAYX,2015-01-01,2025-12-31,Paychex,723531,PAYCHEX INC,wikipedia,44,1.0
+PBCT,2015-01-01,2022-04-03,People's United Financial,1378946,"People's United Financial, Inc.",fts_ticker,29,1.0
+PBI,2015-01-01,2017-02-28,Pitney Bowes,78814,PITNEY BOWES INC /DE/,sec_current,9,1.0
+PCAR,2015-01-01,2025-12-31,Paccar,75362,PACCAR INC,wikipedia,44,1.0
+PCG,2015-01-01,2019-01-17,Pacific Gas & Electric Company,1004980,PG&E Corp,wikipedia,16,0.5128205128205128
+PCG,2022-10-03,2025-12-31,PG&E,1004980,PG&E Corp,wikipedia,13,1.0
+PCL,2015-01-01,2016-02-21,Plum Creek Timber,849213,PLUM CREEK TIMBER CO INC,name_search,5,1.0
+PCP,2015-01-01,2016-01-31,Precision Castparts Corporation,79958,PRECISION CASTPARTS CORP,name_search,4,1.0
+PDCO,2015-01-01,2018-03-18,Patterson Companies,891024,"PATTERSON COMPANIES, INC.",name_search,13,1.0
+PEAK,2019-11-05,2024-03-03,,765880,"HEALTHPEAK PROPERTIES, INC.",rename_wiki,17,
+PEG,2015-01-01,2025-12-31,Public Service Enterprise Group,788784,PUBLIC SERVICE ENTERPRISE GROUP INC,wikipedia,44,1.0
+PENN,2021-03-22,2022-09-18,Penn National Gaming,921738,"PENN Entertainment, Inc.",sec_current,6,1.0
+PEP,2015-01-01,2025-12-31,PepsiCo,77476,PEPSICO INC,wikipedia,44,1.0
+PETM,2015-01-01,2015-03-11,PetSmart,863157,PETSMART INC,override,0,1.0
+PFE,2015-01-01,2025-12-31,Pfizer,78003,PFIZER INC,wikipedia,44,1.0
+PFG,2015-01-01,2025-12-31,Principal Financial Group,1126328,PRINCIPAL FINANCIAL GROUP INC,wikipedia,44,1.0
+PG,2015-01-01,2025-12-31,Procter & Gamble,80424,PROCTER & GAMBLE Co,wikipedia,44,1.0
+PGR,2015-01-01,2025-12-31,Progressive Corporation,80661,PROGRESSIVE CORP/OH/,wikipedia,44,1.0
+PH,2015-01-01,2025-12-31,Parker Hannifin,76334,Parker-Hannifin Corp,wikipedia,44,1.0
+PHM,2015-01-01,2025-12-31,PulteGroup,822416,PULTEGROUP INC/MI/,wikipedia,44,1.0
+PKG,2017-07-26,2025-12-31,Packaging Corporation of America,75677,PACKAGING CORP OF AMERICA,wikipedia,34,1.0
+PKI,2015-01-01,2023-05-15,,31791,"REVVITY, INC.",rename_wiki,34,
+PLD,2015-01-01,2025-12-31,Prologis,1045609,"Prologis, Inc.",wikipedia,44,1.0
+PLL,2015-01-01,2015-08-30,Pall Corporation,75829,PALL CORP,override,2,1.0
+PLTR,2024-09-23,2025-12-31,Palantir Technologies,1321655,Palantir Technologies Inc.,wikipedia,5,1.0
+PM,2015-01-01,2025-12-31,Philip Morris International,1413329,Philip Morris International Inc.,wikipedia,44,1.0
+PNC,2015-01-01,2025-12-31,PNC Financial Services,713676,"PNC FINANCIAL SERVICES GROUP, INC.",wikipedia,44,1.0
+PNR,2015-01-01,2025-12-31,Pentair,77360,PENTAIR plc,wikipedia,44,1.0
+PNW,2015-01-01,2025-12-31,Pinnacle West Capital,764622,PINNACLE WEST CAPITAL CORP,wikipedia,44,1.0
+PODD,2023-03-15,2025-12-31,Insulet,1145197,INSULET CORP,wikipedia,11,1.0
+POM,2015-01-01,2016-03-23,Pepco Holdings,1135971,PEPCO HOLDINGS LLC,name_search,5,1.0
+POOL,2020-10-07,2025-12-31,Pool Corporation,945841,POOL CORP,wikipedia,21,1.0
+PPG,2015-01-01,2025-12-31,PPG Industries,79879,PPG INDUSTRIES INC,wikipedia,44,1.0
+PPL,2015-01-01,2025-12-31,PPL Corporation,922224,PPL Corp,wikipedia,44,1.0
+PRGO,2015-01-01,2021-09-19,Perrigo,1585364,PERRIGO Co plc,sec_current,27,1.0
+PRU,2015-01-01,2025-12-31,Prudential Financial,1137774,PRUDENTIAL FINANCIAL INC,wikipedia,44,1.0
+PSA,2015-01-01,2025-12-31,Public Storage,1393311,Public Storage,wikipedia,44,1.0
+PSKY,2025-08-08,2025-12-31,Paramount Skydance Corporation,2041610,Skydance Corp,wikipedia,1,1.0
+PSX,2015-01-01,2025-12-31,Phillips 66,1534701,Phillips 66,wikipedia,44,1.0
+PTC,2021-04-20,2025-12-31,PTC,857005,PTC INC.,wikipedia,19,1.0
+PVH,2015-01-01,2022-09-18,PVH,78239,PVH CORP. /DE/,sec_current,31,1.0
+PWR,2015-01-01,2025-12-31,Quanta Services,1050915,"QUANTA SERVICES, INC.",wikipedia,44,1.0
+PX,2015-01-01,2018-10-30,,884905,LINDE INC,override,15,
+PXD,2015-01-01,2024-05-07,Pioneer Natural Resources,1038357,PIONEER NATURAL RESOURCES CO,name_search,38,1.0
+PYPL,2015-07-20,2025-12-31,PayPal,1633917,"PayPal Holdings, Inc.",wikipedia,42,1.0
+Q,2025-11-03,2025-12-31,Qnity Electronics,2058873,"Qnity Electronics, Inc.",wikipedia,1,1.0
+QCOM,2015-01-01,2025-12-31,Qualcomm,804328,QUALCOMM INC/DE,wikipedia,44,1.0
+QEP,2015-01-01,2015-06-30,QEP Resources,1108827,"QEP RESOURCES, INC.",name_search,2,1.0
+QRVO,2015-06-12,2024-12-22,Qorvo,1604778,"Qorvo, Inc.",name_search,38,1.0
+R,2015-01-01,2017-06-18,Ryder System,85961,RYDER SYSTEM INC,sec_current,10,1.0
+RAI,2015-01-01,2017-07-24,Reynolds American,1275283,REYNOLDS AMERICAN INC,name_search,10,1.0
+RCL,2015-01-01,2025-12-31,Royal Caribbean Cruises,884887,ROYAL CARIBBEAN CRUISES LTD,wikipedia,44,1.0
+RE,2017-06-19,2023-07-09,Everest Re,1095073,"EVEREST GROUP, LTD.",override,24,1.0
+REG,2017-03-02,2025-12-31,Regency Centers,910606,REGENCY CENTERS CORP,wikipedia,35,1.0
+REGN,2015-01-01,2025-12-31,Regeneron Pharmaceuticals,872589,"REGENERON PHARMACEUTICALS, INC.",wikipedia,44,1.0
+RF,2015-01-01,2025-12-31,Regions Financial Corporation,1281761,REGIONS FINANCIAL CORP,wikipedia,44,1.0
+RHI,2015-01-01,2024-06-23,Robert Half,315213,ROBERT HALF INC.,sec_current,38,1.0
+RHT,2015-01-01,2019-07-14,Red Hat,1087423,RED HAT INC,name_search,19,1.0
+RIG,2015-01-01,2017-07-25,Transocean,1451505,Transocean Ltd.,sec_current,10,1.0
+RJF,2017-03-20,2025-12-31,Raymond James Financial,720005,RAYMOND JAMES FINANCIAL INC,wikipedia,35,1.0
+RL,2015-01-01,2025-12-31,Ralph Lauren Corporation,1037038,RALPH LAUREN CORP,wikipedia,44,1.0
+RMD,2017-07-26,2025-12-31,ResMed,943819,RESMED INC,wikipedia,34,1.0
+ROK,2015-01-01,2025-12-31,Rockwell Automation,1024478,"ROCKWELL AUTOMATION, INC",wikipedia,44,1.0
+ROL,2018-10-01,2025-12-31,Rollins,84839,ROLLINS INC,wikipedia,29,1.0
+ROP,2015-01-01,2025-12-31,Roper Technologies,882835,ROPER TECHNOLOGIES INC,wikipedia,44,1.0
+ROST,2015-01-01,2025-12-31,Ross Stores,745732,"ROSS STORES, INC.",wikipedia,44,1.0
+RRC,2015-01-01,2018-06-17,Range Resources,315852,RANGE RESOURCES CORP,sec_current,14,1.0
+RSG,2015-01-01,2025-12-31,Republic Services,1060391,"REPUBLIC SERVICES, INC.",wikipedia,44,1.0
+RTN,2015-01-01,2020-04-05,Raytheon Company,1047122,RAYTHEON CO/,fts_ticker,21,1.0
+RTX,2020-04-03,2025-12-31,RTX Corporation,101829,RTX Corp,wikipedia,23,1.0
+RVTY,2023-05-16,2025-12-31,Revvity,31791,"REVVITY, INC.",wikipedia,10,1.0
+SBAC,2017-09-01,2025-12-31,SBA Communications,1034054,SBA COMMUNICATIONS CORP,wikipedia,33,1.0
+SBNY,2021-12-20,2023-03-14,Signature Bank,,,excluded,0,
+SBUX,2015-01-01,2025-12-31,Starbucks,829224,STARBUCKS CORP,wikipedia,44,1.0
+SCG,2015-01-01,2019-01-01,SCANA,754737,SCANA CORP,name_search,16,1.0
+SCHW,2015-01-01,2025-12-31,Charles Schwab Corporation,316709,SCHWAB CHARLES CORP,wikipedia,44,1.0
+SE,2015-01-01,2017-02-26,Spectra Energy,1373835,Spectra Energy Corp.,name_search,9,1.0
+SEDG,2021-12-20,2023-12-17,SolarEdge,1419612,"SOLAREDGE TECHNOLOGIES, INC.",sec_current,8,1.0
+SEE,2015-01-01,2023-12-17,Sealed Air,1012100,SEALED AIR CORP/DE,name_search,36,1.0
+SHW,2015-01-01,2025-12-31,Sherwin-Williams,89800,SHERWIN WILLIAMS CO,wikipedia,44,1.0
+SIAL,2015-01-01,2015-11-17,Sigma-Aldrich,90185,SIGMA ALDRICH CORP,name_search,4,1.0
+SIG,2015-07-29,2018-03-18,Signet Jewelers,832988,SIGNET JEWELERS LTD,sec_current,10,1.0
+SIVB,2018-03-19,2023-03-14,SVB Financial Group,719739,SVB FINANCIAL GROUP,name_search,20,1.0
+SJM,2015-01-01,2025-12-31,J.M. Smucker Company (The),91419,J M SMUCKER Co,wikipedia,44,1.0
+SLB,2015-01-01,2025-12-31,Schlumberger,87347,SLB LIMITED/NV,wikipedia,44,1.0
+SLG,2015-03-23,2021-03-21,SL Green Realty,1040971,SL GREEN REALTY CORP,sec_current,24,1.0
+SMCI,2024-03-18,2025-12-31,Supermicro,1375365,"Super Micro Computer, Inc.",wikipedia,7,0.6666666666666666
+SNA,2015-01-01,2025-12-31,Snap-on,91440,Snap-on Inc,wikipedia,44,1.0
+SNDK,2015-01-01,2016-05-11,SanDisk,1000180,SANDISK CORP,name_search,6,1.0
+SNDK,2025-11-28,2025-12-31,Sandisk,2023554,Sandisk Corp,wikipedia,0,1.0
+SNI,2015-01-01,2018-03-06,Scripps Networks Interactive,1430602,"Scripps Networks Interactive, Inc.",name_search,13,1.0
+SNPS,2017-03-16,2025-12-31,Synopsys,883241,SYNOPSYS INC,wikipedia,35,1.0
+SO,2015-01-01,2025-12-31,Southern Company,92122,SOUTHERN CO,wikipedia,44,1.0
+SOLS,2025-10-30,2025-12-21,Solstice Advanced Materials,2064953,Solstice Advanced Materials Inc.,wikipedia,1,1.0
+SOLV,2024-04-01,2025-12-31,Solventum,1964738,Solventum Corp,wikipedia,7,1.0
+SPG,2015-01-01,2025-12-31,Simon Property Group,1063761,SIMON PROPERTY GROUP INC.,wikipedia,44,1.0
+SPGI,2015-01-01,2025-12-31,S&P Global,64040,S&P Global Inc.,wikipedia,44,1.0
+SPLS,2015-01-01,2017-09-12,Staples,791519,STAPLES INC,name_search,11,1.0
+SRCL,2015-01-01,2018-12-02,Stericycle,861878,STERICYCLE INC,name_search,16,1.0
+SRE,2015-01-01,2025-12-31,Sempra,1032208,SEMPRA,wikipedia,44,1.0
+STE,2019-12-23,2025-12-31,Steris,1757898,STERIS plc,wikipedia,24,1.0
+STI,2015-01-01,2019-12-08,SunTrust Banks,750556,SUNTRUST BANKS INC,name_search,20,1.0
+STJ,2015-01-01,2017-01-04,St Jude Medical,203077,"ST JUDE MEDICAL, LLC",name_search,8,1.0
+STLD,2022-12-22,2025-12-31,Steel Dynamics,1022671,STEEL DYNAMICS INC,wikipedia,12,1.0
+STT,2015-01-01,2025-12-31,State Street Corporation,93751,STATE STREET CORP,wikipedia,44,1.0
+STX,2015-01-01,2025-12-31,Seagate Technology,1137789,Seagate Technology Holdings plc,wikipedia,44,1.0
+STZ,2015-01-01,2025-12-31,Constellation Brands,16918,"CONSTELLATION BRANDS, INC.",wikipedia,44,1.0
+SW,2024-07-08,2025-12-31,Smurfit Westrock,2005951,Smurfit Westrock plc,wikipedia,6,1.0
+SWK,2015-01-01,2025-12-31,Stanley Black & Decker,93556,"STANLEY BLACK & DECKER, INC.",wikipedia,44,1.0
+SWKS,2015-03-12,2025-12-31,Skyworks,4127,"SKYWORKS SOLUTIONS, INC.",wikipedia,43,1.0
+SWN,2015-01-01,2017-04-03,Southwestern Energy,7332,SOUTHWESTERN ENERGY CO,name_search,9,1.0
+SWY,2015-01-01,2015-01-26,Safeway,86144,SAFEWAY INC,override,0,1.0
+SYF,2015-11-18,2025-12-31,Synchrony Financial,1601712,Synchrony Financial,wikipedia,40,1.0
+SYK,2015-01-01,2025-12-31,Stryker Corporation,310764,STRYKER CORP,wikipedia,44,1.0
+SYMC,2015-01-01,2019-11-04,,849399,Gen Digital Inc.,rename_wiki,19,
+SYY,2015-01-01,2025-12-31,Sysco,96021,SYSCO CORP,wikipedia,44,1.0
+T,2015-01-01,2025-12-31,AT&T Corporation,732717,AT&T INC.,wikipedia,44,1.0
+TAP,2015-01-01,2025-12-31,Molson Coors Beverage Company,24545,MOLSON COORS BEVERAGE CO,wikipedia,44,1.0
+TDC,2015-01-01,2017-06-18,Teradata,816761,TERADATA CORP /DE/,sec_current,10,1.0
+TDG,2016-06-03,2025-12-31,TransDigm Group,1260221,TransDigm Group INC,wikipedia,38,1.0
+TDY,2020-06-22,2025-12-31,Teledyne,1094285,TELEDYNE TECHNOLOGIES INC,wikipedia,22,1.0
+TE,2015-01-01,2016-06-30,TECO Energy,350563,TECO ENERGY INC,name_search,6,1.0
+TECH,2021-08-30,2025-12-31,Bio-Techne,842023,BIO-TECHNE Corp,wikipedia,17,1.0
+TEG,2015-01-01,2015-06-29,Integrys Energy Group,916863,"INTEGRYS HOLDING, INC.",fts_ticker,2,1.0
+TEL,2015-01-01,2025-12-31,TE Connectivity,1385157,TE Connectivity plc,wikipedia,44,1.0
+TER,2020-09-21,2025-12-31,Teradyne,97210,"TERADYNE, INC",wikipedia,21,1.0
+TFC,2019-12-09,2025-12-31,Truist Financial,92230,TRUIST FINANCIAL CORP,wikipedia,24,1.0
+TFX,2019-01-18,2025-03-23,Teleflex,96943,TELEFLEX INC,sec_current,25,1.0
+TGNA,2015-01-01,2017-06-01,Tegna,39899,TEGNA INC,name_search,10,1.0
+TGT,2015-01-01,2025-12-31,Target Corporation,27419,TARGET CORP,wikipedia,44,1.0
+THC,2015-01-01,2016-04-17,Tenet Healthcare,70318,TENET HEALTHCARE CORP,sec_current,5,1.0
+TIF,2015-01-01,2021-01-06,Tiffany & Co,98246,TIFFANY & CO,name_search,24,1.0
+TJX,2015-01-01,2025-12-31,TJX Companies,109198,TJX COMPANIES INC /DE/,wikipedia,44,1.0
+TKO,2025-03-24,2025-12-31,TKO Group Holdings,1973266,"TKO Group Holdings, Inc.",wikipedia,3,1.0
+TMK,2015-01-01,2019-08-07,,320335,GLOBE LIFE INC.,rename_wiki,18,
+TMO,2015-01-01,2025-12-31,Thermo Fisher Scientific,97745,THERMO FISHER SCIENTIFIC INC.,wikipedia,44,1.0
+TMUS,2019-07-15,2025-12-31,T-Mobile US,1283699,"T-Mobile US, Inc.",wikipedia,26,1.0
+TPL,2024-11-26,2025-12-31,Texas Pacific Land Corporation,1811074,Texas Pacific Land Corp,wikipedia,4,1.0
+TPR,2015-01-01,2025-12-31,"Tapestry, Inc.",1116132,"TAPESTRY, INC.",wikipedia,44,1.0
+TRGP,2022-10-12,2025-12-31,Targa Resources,1389170,Targa Resources Corp.,wikipedia,13,1.0
+TRIP,2015-01-01,2019-12-22,TripAdvisor,1526520,"TripAdvisor, Inc.",sec_current,20,1.0
+TRMB,2021-01-21,2025-12-31,Trimble,864749,TRIMBLE INC.,wikipedia,20,1.0
+TROW,2015-01-01,2025-12-31,T. Rowe Price,1113169,PRICE T ROWE GROUP INC,wikipedia,44,1.0
+TRV,2015-01-01,2025-12-31,Travelers Companies (The),86312,"TRAVELERS COMPANIES, INC.",wikipedia,44,1.0
+TSCO,2015-01-01,2025-12-31,Tractor Supply,916365,TRACTOR SUPPLY CO /DE/,wikipedia,44,1.0
+TSLA,2020-12-21,2025-12-31,Tesla,1318605,"Tesla, Inc.",wikipedia,20,1.0
+TSN,2015-01-01,2025-12-31,Tyson Foods,100493,"TYSON FOODS, INC.",wikipedia,44,1.0
+TSS,2015-01-01,2019-09-22,TSYS,721683,TOTAL SYSTEM SERVICES INC,override,19,0.32
+TT,2020-03-03,2025-12-31,Trane Technologies,1466258,Trane Technologies plc,wikipedia,23,1.0
+TTD,2025-07-18,2025-12-31,Trade Desk (The),1671933,"Trade Desk, Inc.",wikipedia,2,1.0
+TTWO,2018-03-19,2025-12-31,Take-Two Interactive,946581,TAKE TWO INTERACTIVE SOFTWARE INC,wikipedia,31,1.0
+TWC,2015-01-01,2016-05-17,Time Warner Cable,1377013,"SPECTRUM MANAGEMENT HOLDING COMPANY, LLC",fts_ticker,6,1.0
+TWTR,2018-06-07,2022-10-31,Twitter,1418091,"TWITTER, INC.",name_search,17,1.0
+TWX,2015-01-01,2018-06-14,Time Warner,1105705,"WARNER MEDIA, LLC",fts_ticker,14,1.0
+TXN,2015-01-01,2025-12-31,Texas Instruments,97476,TEXAS INSTRUMENTS INC,wikipedia,44,1.0
+TXT,2015-01-01,2025-12-31,Textron,217346,TEXTRON INC,wikipedia,44,1.0
+TYL,2020-06-22,2025-12-31,Tyler Technologies,860731,TYLER TECHNOLOGIES INC,wikipedia,22,1.0
+UA,2016-04-08,2022-06-20,Under Armour (Class C),1336917,"Under Armour, Inc.",sec_current,24,1.0
+UAA,2015-01-01,2022-06-20,Under Armour (Class A),1336917,"Under Armour, Inc.",sec_current,29,1.0
+UAL,2015-09-03,2025-12-31,United Continental Holdings,100517,"United Airlines Holdings, Inc.",wikipedia,41,1.0
+UBER,2023-12-18,2025-12-31,Uber,1543151,"Uber Technologies, Inc",wikipedia,8,1.0
+UDR,2016-03-07,2025-12-31,UDR,74208,"UDR, Inc.",wikipedia,39,1.0
+UHS,2015-01-01,2025-12-31,Universal Health Services,352915,UNIVERSAL HEALTH SERVICES INC,wikipedia,44,1.0
+ULTA,2016-04-18,2025-12-31,Ulta Beauty,1403568,"Ulta Beauty, Inc.",wikipedia,39,1.0
+UNH,2015-01-01,2025-12-31,UnitedHealth Group,731766,UNITEDHEALTH GROUP INC,wikipedia,44,1.0
+UNM,2015-01-01,2021-09-19,Unum,5513,Unum Group,sec_current,27,1.0
+UNP,2015-01-01,2025-12-31,Union Pacific Corporation,100885,UNION PACIFIC CORP,wikipedia,44,1.0
+UPS,2015-01-01,2025-12-31,United Parcel Service,1090727,UNITED PARCEL SERVICE INC,wikipedia,44,1.0
+URBN,2015-01-01,2017-03-19,Urban Outfitters,912615,URBAN OUTFITTERS INC,sec_current,8,1.0
+URI,2015-01-01,2025-12-31,United Rentals,1067701,"UNITED RENTALS, INC.",wikipedia,44,1.0
+USB,2015-01-01,2025-12-31,U.S. Bancorp,36104,US BANCORP \DE\,wikipedia,44,0.9523809523809523
+UTX,2015-01-01,2020-04-02,,101829,RTX Corp,rename_wiki,21,
+V,2015-01-01,2025-12-31,Visa,1403161,VISA INC.,wikipedia,44,1.0
+VAR,2015-01-01,2021-04-19,Varian Medical Systems,203527,VARIAN MEDICAL SYSTEMS INC,name_search,25,1.0
+VFC,2015-01-01,2024-03-31,VF Corporation,103379,V F CORP,sec_current,36,1.0
+VIAB,2015-01-01,2019-12-04,Viacom,1339947,Viacom Inc.,name_search,20,1.0
+VIAC,2019-12-05,2022-02-16,,813828,Paramount Global,override,9,
+VICI,2022-06-08,2025-12-31,Vici Properties,1705696,VICI PROPERTIES INC.,wikipedia,14,1.0
+VLO,2015-01-01,2025-12-31,Valero Energy,1035002,VALERO ENERGY CORP/TX,wikipedia,44,1.0
+VLTO,2023-10-02,2025-12-31,Veralto,1967680,Veralto Corp,wikipedia,9,1.0
+VMC,2015-01-01,2025-12-31,Vulcan Materials Company,1396009,Vulcan Materials CO,wikipedia,44,1.0
+VNO,2015-01-01,2023-01-03,Vornado Realty Trust,899689,VORNADO REALTY TRUST,sec_current,32,1.0
+VNT,2020-10-12,2021-03-21,Vontier,1786842,Vontier Corp,sec_current,2,1.0
+VRSK,2015-10-08,2025-12-31,Verisk Analytics,1442145,"Verisk Analytics, Inc.",wikipedia,41,1.0
+VRSN,2015-01-01,2025-12-31,Verisign,1014473,VERISIGN INC/CA,wikipedia,44,1.0
+VRTX,2015-01-01,2025-12-31,Vertex Pharmaceuticals,875320,VERTEX PHARMACEUTICALS INC / MA,wikipedia,44,1.0
+VST,2024-05-08,2025-12-31,Vistra,1692819,Vistra Corp.,wikipedia,7,1.0
+VTR,2015-01-01,2025-12-31,Ventas,740260,"Ventas, Inc.",wikipedia,44,1.0
+VTRS,2020-11-17,2025-12-31,Viatris,1792044,Viatris Inc,wikipedia,20,1.0
+VZ,2015-01-01,2025-12-31,Verizon,732712,VERIZON COMMUNICATIONS INC,wikipedia,44,1.0
+WAB,2019-02-27,2025-12-31,Wabtec,943452,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,wikipedia,28,1.0
+WAT,2015-01-01,2025-12-31,Waters Corporation,1000697,WATERS CORP /DE/,wikipedia,44,1.0
+WBA,2015-01-01,2025-08-27,Walgreens Boots Alliance,1618921,"Walgreens Boots Alliance, Inc.",name_search,42,1.0
+WBD,2022-04-11,2025-12-31,Warner Bros. Discovery,1437107,"Warner Bros. Discovery, Inc.",wikipedia,15,1.0
+WCG,2018-09-17,2020-01-27,WellCare,1279363,"WELLCARE HEALTH PLANS, INC.",name_search,5,1.0
+WDAY,2024-12-23,2025-12-31,"Workday, Inc.",1327811,"Workday, Inc.",wikipedia,4,1.0
+WDC,2015-01-01,2025-12-31,Western Digital,106040,WESTERN DIGITAL CORP,wikipedia,44,1.0
+WEC,2015-01-01,2025-12-31,WEC Energy Group,783325,"WEC ENERGY GROUP, INC.",wikipedia,44,1.0
+WELL,2015-01-01,2025-12-31,Welltower,766704,WELLTOWER INC.,wikipedia,44,1.0
+WFC,2015-01-01,2025-12-31,Wells Fargo,72971,WELLS FARGO & COMPANY/MN,wikipedia,44,1.0
+WFM,2015-01-01,2017-08-27,Whole Foods Market,865436,WHOLE FOODS MARKET INC,name_search,11,1.0
+WHR,2015-01-01,2024-03-17,Whirlpool Corporation,106640,WHIRLPOOL CORP /DE/,sec_current,37,1.0
+WIN,2015-01-01,2015-04-06,Windstream Communications,1282266,"WINDSTREAM HOLDINGS, INC.",fts_ticker,1,1.0
+WLTW,2016-01-05,2022-01-09,Willis Towers Watson,1140536,WILLIS TOWERS WATSON PLC,rename_wiki,24,1.0
+WM,2015-01-01,2025-12-31,Waste Management,823768,WASTE MANAGEMENT INC,wikipedia,44,1.0
+WMB,2015-01-01,2025-12-31,Williams Companies,107263,"WILLIAMS COMPANIES, INC.",wikipedia,44,1.0
+WMT,2015-01-01,2025-12-31,Walmart,104169,Walmart Inc.,wikipedia,44,1.0
+WRB,2019-12-05,2025-12-31,W. R. Berkley Corporation,11544,BERKLEY W R CORP,wikipedia,24,1.0
+WRK,2015-07-02,2018-11-01,,1636023,WRKCo Inc.,override,13,
+WRK,2018-11-02,2024-07-07,,1732845,WestRock Co,override,23,
+WSM,2025-03-24,2025-12-31,"Williams-Sonoma, Inc.",719955,WILLIAMS SONOMA INC,wikipedia,4,1.0
+WST,2020-05-22,2025-12-31,West Pharmaceutical Services,105770,WEST PHARMACEUTICAL SERVICES INC,wikipedia,22,1.0
+WTW,2022-01-10,2025-12-31,Willis Towers Watson,1140536,WILLIS TOWERS WATSON PLC,wikipedia,16,1.0
+WU,2015-01-01,2021-12-19,Western Union,1365135,Western Union CO,sec_current,28,1.0
+WY,2015-01-01,2025-12-31,Weyerhaeuser,106535,WEYERHAEUSER CO,wikipedia,44,1.0
+WYND,2015-01-01,2018-05-30,,1361658,Travel & Leisure Co.,rename_sec,14,
+WYNN,2015-01-01,2025-12-31,Wynn Resorts,1174922,WYNN RESORTS LTD,wikipedia,44,1.0
+XEC,2015-01-01,2020-03-02,Cimarex Energy,1168054,CIMAREX ENERGY CO,name_search,21,1.0
+XEL,2015-01-01,2025-12-31,Xcel Energy,72903,XCEL ENERGY INC,wikipedia,44,1.0
+XL,2015-01-01,2018-09-11,XL Group,875159,XL GROUP LTD,override,15,1.0
+XLNX,2015-01-01,2022-02-14,Xilinx,743988,XILINX INC,name_search,29,1.0
+XOM,2015-01-01,2025-12-31,ExxonMobil,34088,EXXON MOBIL CORP,wikipedia,44,0.9523809523809523
+XRAY,2015-01-01,2024-04-01,Dentsply Sirona,818479,DENTSPLY SIRONA Inc.,sec_current,37,1.0
+XRX,2015-01-01,2019-07-31,Xerox,108772,XEROX CORP,override,18,1.0
+XRX,2019-08-01,2021-03-21,Xerox,1770450,Xerox Holdings Corp,override,7,1.0
+XYL,2015-01-01,2025-12-31,Xylem,1524472,Xylem Inc.,wikipedia,44,1.0
+XYZ,2025-07-23,2025-12-31,"Block, Inc.",1512673,"Block, Inc.",wikipedia,2,1.0
+YUM,2015-01-01,2025-12-31,Yum! Brands,1041061,YUM BRANDS INC,wikipedia,44,1.0
+ZBH,2015-01-01,2025-12-31,Zimmer Biomet,1136869,"ZIMMER BIOMET HOLDINGS, INC.",wikipedia,44,1.0
+ZBRA,2019-12-23,2025-12-31,Zebra Technologies,877212,ZEBRA TECHNOLOGIES CORP,wikipedia,24,1.0
+ZION,2015-01-01,2024-03-17,Zions Bancorporation,109380,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",sec_current,37,1.0
+ZTS,2015-01-01,2025-12-31,Zoetis,1555280,Zoetis Inc.,wikipedia,44,1.0

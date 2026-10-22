@@ -1,0 +1,57 @@
+ticker,cik,valid_from,valid_to,note
+EMC,790070,,,EMC Corp (auto match hit EMC Insurance)
+HOT,316206,,,Starwood Hotels & Resorts (auto match hit Starwood Property Trust)
+RE,1095073,,,Everest Re Group (auto match hit RE/MAX)
+TSS,721683,,,Total System Services (auto match hit TSS Inc)
+XL,875159,,,XL Group (auto match hit Destination XL)
+VIAC,813828,,,ViacomCBS = CBS Corp CIK (rename hit wrong issuer)
+CBS,813828,,,CBS Corp
+AABA,1011006,,,Yahoo / Altaba
+BCR,9892,,,C. R. Bard
+LO,1424847,,,Lorillard Inc
+MWV,1159297,,,MeadWestvaco
+MYL,69499,,2015-02-27,Mylan Inc (pre-inversion)
+MYL,1623613,2015-02-28,,Mylan N.V.
+PETM,863157,,,PetSmart
+PLL,75829,,,Pall Corp
+PX,884905,,,Praxair
+SWY,86144,,,Safeway
+WRK,1636023,,2018-11-01,WestRock Co (old)
+WRK,1732845,2018-11-02,,WestRock Co (post-KapStone holdco)
+DXC,23082,,2016-12-31,fja lists DXC for 2015; issuer then was Computer Sciences Corp
+DD,30554,,2017-08-31,E. I. du Pont de Nemours (pre-DowDuPont)
+NE,1458891,,,Noble Corp (2015 spell)
+FRC,,,,First Republic Bank filed with FDIC not SEC -> excluded
+SBNY,,,,Signature Bank filed with FDIC not SEC -> excluded
+CCEP,,,,foreign private issuer (20-F; no 8-K earnings) -> excluded
+APA,6769,,2021-02-28,Apache Corp (before APA Corp holdco 2021-03-01)
+APA,1841666,2021-03-01,,APA Corp holdco
+AVGO,1441634,,2016-01-31,Avago Technologies Ltd
+AVGO,1649338,2016-02-01,2018-04-03,Broadcom Ltd / Broadcom Pte (after Broadcom Corp deal)
+AVGO,1730168,2018-04-04,,Broadcom Inc (US redomicile)
+BG,1144519,,2023-10-31,Bunge Ltd (before Swiss redomicile 2023-11-01)
+BG,1996862,2023-11-01,,Bunge Global SA
+BHGE,808362,,2017-07-02,Baker Hughes Inc (pre-GE combination)
+BHGE,1701605,2017-07-03,,Baker Hughes a GE Co
+BLK,1364742,,2024-09-30,BlackRock Inc old (before GIP holdco 2024-10-01)
+BLK,2012383,2024-10-01,,BlackRock Inc new holdco
+CI,701221,,2018-12-19,Cigna Corp old (before Express Scripts deal holdco)
+CI,1739940,2018-12-20,,Cigna Corp / Cigna Group holdco
+DIS,1001039,,2019-03-19,Walt Disney Co old (before TFCF holdco)
+DIS,1744489,2019-03-20,,Walt Disney Co new holdco
+FOX,1308161,,2019-03-18,Twenty-First Century Fox (different company)
+FOX,1754301,2019-03-19,,Fox Corp
+FOXA,1308161,,2019-03-18,Twenty-First Century Fox (different company)
+FOXA,1754301,2019-03-19,,Fox Corp
+FTI,1135152,,2017-01-16,FMC Technologies (before TechnipFMC)
+FTI,1681459,2017-01-17,,TechnipFMC plc
+GOOG,1288776,,2015-10-01,Google Inc (before Alphabet holdco)
+GOOG,1652044,2015-10-02,,Alphabet Inc
+GOOGL,1288776,,2015-10-01,Google Inc (before Alphabet holdco)
+GOOGL,1652044,2015-10-02,,Alphabet Inc
+IR,1466258,,2020-03-01,Ingersoll-Rand plc (now Trane Technologies; ticker IR passed to Gardner Denver)
+IR,1699150,2020-03-02,,Ingersoll Rand Inc (ex Gardner Denver; joined index 2020-03-02)
+XRX,108772,,2019-07-31,Xerox Corp (before Xerox Holdings holdco)
+XRX,1770450,2019-08-01,,Xerox Holdings Corp
+BBT,92230,,,BB&T Corp = Truist CIK (SEC current table now gives BBT to Beacon Financial / ex-Berkshire Hills)
+PARA,813828,,,Paramount Global (SEC current table gave Banzai International)

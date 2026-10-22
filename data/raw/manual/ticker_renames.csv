@@ -1,0 +1,37 @@
+old_ticker,new_ticker,note
+ABC,COR,AmerisourceBergen -> Cencora
+ANTM,ELV,Anthem -> Elevance Health
+BLL,BALL,Ball Corp ticker change
+COG,CTRA,Cabot Oil & Gas -> Coterra
+FBHS,FBIN,Fortune Brands Home & Security -> Fortune Brands Innovations
+FLT,CPAY,FleetCor -> Corpay
+PKI,RVTY,PerkinElmer -> Revvity
+PEAK,DOC,Healthpeak ticker change
+HCP,DOC,HCP -> Healthpeak
+NLOK,GEN,NortonLifeLock -> Gen Digital
+SYMC,GEN,Symantec -> NortonLifeLock -> Gen Digital
+VIAC,PARA,ViacomCBS -> Paramount
+CBS,PARA,CBS -> ViacomCBS -> Paramount
+FI,FISV,Fiserv ticker change
+UTX,RTX,United Technologies -> Raytheon Technologies -> RTX
+HRS,LHX,Harris -> L3Harris
+CTL,LUMN,CenturyLink -> Lumen
+TMK,GL,Torchmark -> Globe Life
+BHGE,BKR,Baker Hughes GE -> Baker Hughes
+ADS,BFH,Alliance Data -> Bread Financial
+CMCSK,CMCSA,Comcast class K
+DISCK,WBD,Discovery class C (same issuer as DISCA)
+DISCA,WBD,Discovery -> Warner Bros. Discovery
+FB,META,Facebook -> Meta Platforms
+KORS,CPRI,Michael Kors -> Capri Holdings
+JEC,J,Jacobs Engineering ticker change
+LB,BBWI,L Brands -> Bath & Body Works
+WYND,TNL,Wyndham Worldwide -> Wyndham Destinations -> Travel + Leisure
+BK,BNY,Bank of New York Mellon -> BNY (SEC ticker table 2026-10)
+MMC,MRSH,Marsh & McLennan -> Marsh (2026-09)
+EQR,VMRK,Equity Residential -> Vivmark Residential after AvalonBay merger (2026)
+GPS,GAP,Gap Inc ticker change
+RE,EG,Everest Re -> Everest Group
+WLTW,WTW,Willis Towers Watson ticker change
+ARNC,HWM,Arconic Inc -> Howmet Aerospace (same CIK 4281)
+DWDP,DD,DowDuPont -> DuPont de Nemours (same CIK 1666700)

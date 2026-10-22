@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
+data/raw/*
+!data/raw/manual/
+data/interim/llm_raw/
+data/interim/anon*/
+data/interim/ex991/

@@ -1,0 +1,23 @@
+key,field,value,n
+kappa,master_dir,0.6593846921980054,500
+all_agree,master_dir,0.686,500
+kappa,master_noreb_dir,0.6859067539695811,500
+all_agree,master_noreb_dir,0.714,500
+kappa,single_dir,0.7525401945426864,500
+all_agree,single_dir,0.792,500
+kappa,master_winner,0.6466098101116713,500
+all_agree,master_winner,0.698,500
+kappa,master_label,0.8716443971623004,500
+all_agree,master_label,0.852,500
+kappa,single_label,0.9270527360087149,500
+all_agree,single_label,0.92,500
+kappa,narr_guidance,0.9182127425659834,500
+all_agree,narr_guidance,0.904,500
+corr,narr_tone,0.9226229227138912,500
+corr,master_score,0.8934840712599331,500
+corr,single_score,0.9215572819991111,500
+keep_Hollow Beat,master_label,0.4819277108433735,83
+keep_Resilient Miss,master_label,0.6736842105263158,95
+id_hit,id_hit,0.914572864321608,199
+eps_hit_pre,eps_hit,0.40906965871902756,4278
+eps_hit_post,eps_hit,0.1031390134529148,669

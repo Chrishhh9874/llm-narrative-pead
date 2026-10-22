@@ -1,0 +1,17 @@
+# Tested with Python 3.11 and the versions in brackets.
+pandas>=2.0              # [3.0.3]
+numpy                    # [2.4.6]
+scipy                    # [1.17.1]
+statsmodels>=0.14        # [0.15.0]  s15-s20 regressions
+matplotlib>=3.8          # [3.11.1]  s17 figure
+pyarrow                  # [24.0.0]  car_path_full.parquet
+requests                 # [2.34.2]  SEC EDGAR client
+httpx                    # [0.28.1]  DeepSeek API client (llm.py)
+beautifulsoup4           # [4.14.3]  s04 press-release parsing
+lxml                     # [6.0.4]
+spacy>=3.8               # [3.8.16]  s06; plus: python -m spacy download en_core_web_md  [3.8.0]
+wordfreq                 # [3.1.1]   s06 word-frequency filter
+yfinance>=0.2            # [1.7.0]   prices
+kaggle>=1.7.4.5          # [2.2.4]   download_kaggle.py
+torch>=2.0               # [2.11.0]  s14 FinBERT (CPU is fine, about 2 h)
+transformers>=4.40       # [5.20.2]  s14 FinBERT (ProsusAI/finbert)
