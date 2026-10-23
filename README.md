@@ -18,7 +18,7 @@ All LLM calls use DeepSeek V4.1 Flash (`deepseek-flash`) at temperature 0 in JSO
 ## Repository layout
 
 ```
-code/               the pipeline, steps s01-s21 (each script's docstring lists its inputs, outputs and choices)
+code/               the pipeline, steps s01-s22 (each script's docstring lists its inputs, outputs and choices)
   common.py         paths, .env loading, rate-limited and disk-cached SEC EDGAR client
   llm.py            DeepSeek client: disk cache, retries, cost accounting
   sample_events.py  development samples and the stage-B gate batch (year-stratified random draws)
@@ -27,6 +27,7 @@ code/               the pipeline, steps s01-s21 (each script's docstring lists i
 data/raw/manual/    hand-checked ticker -> CIK overrides and ticker renames (used by s01, s07)
 data/interim/       intermediate data: events, CARs, baselines and all LLM outputs (see below)
 results/            every table (csv) and Figure 2 exactly as reported in the paper
+APPENDIX.md         online appendix A-E (event dates, EPS construction, Stage B sampling, model version, equivalence tests)
 requirements.txt
 ```
 
@@ -53,6 +54,7 @@ python s18_calendar.py       # calendar-time portfolios
 python s19_robustness.py     # robustness checks quoted in the text (R1)
 python s20_debate_checks.py  # debate and sample-flow checks (R2)
 python s21_llm_checks.py      # repeat-run stability and probe hit rates (R3)
+python s22_referee_checks.py  # online appendix A-E (R4)
 ```
 
 On our machine this reproduces every file in `results/` byte for byte (the figure PDF differs only in its
@@ -68,7 +70,8 @@ revises history from time to time; ours was downloaded in October 2026 and runs 
 | Table 4 (look-ahead and robustness) | `results/checks/R1_checks_ff.csv`, `R3_llm_checks.csv`, `results/stageB/B3_robustness_ff.csv` |
 | Grouped CARs, threshold and sub-period robustness | `results/stageA/T1_*`, `T3_*`, `T4_*` |
 | Calendar-time portfolios | `results/calendar/C1_calendar_ff.csv` |
-| Other numbers quoted in the text | `results/checks/R1_checks_ff.csv`, `R2_checks_ff.csv`, `R3_llm_checks.csv` |
+| Other numbers quoted in the text | `results/checks/R1_checks_ff.csv`, `R2_checks_ff.csv`, `R3_llm_checks.csv`, `R4_referee_checks.csv` |
+| Online appendix A-E (`APPENDIX.md`) | `results/checks/R4_referee_checks.csv` |
 
 `_ff` is the main CAR model (FF5 + UMD betas estimated over trading days [-250, -30], alpha not subtracted).
 `_mb` (beta-only market model) and `_ma` (market-adjusted) are robustness checks. `_mm` (market model with
@@ -97,6 +100,9 @@ Events are identified by `accession`, the SEC EDGAR accession number of the Item
 | `probes_pilot_anon.csv`, `probes_pilot_anon_masked.csv` | identity / return probes on the pilot texts | s08 |
 | `probe_ret_events.csv`, `probes_ret2000_anon.csv` | expanded return probe, 2,000 events | s13, s08 |
 | `cutoff_probe.csv`, `cutoff_probe_stageB.csv` | EPS-recall probes (knowledge cutoff; stage-B events) | s09 |
+| `event_timing.csv` | 8-K date of report, acceptance hour, Zacks-implied day-0 shift, whether the report date precedes day 0 (trading days), day of peak abnormal volume | s22 --prep |
+| `sue_checks.csv`, `q4_validation.csv`, `splits_check.csv` | derived-quarter and split flags per event; derived vs reported fourth quarters (with XBRL concepts); detected splits against exchange records | s22 --prep |
+| `llm_runs.csv` | LLM calls per task: model, server fingerprint, first / last call, request settings, reasoning tokens, re-sent calls | s22 --prep |
 
 The LLM outputs come from DeepSeek V4.1 Flash and were generated in October 2026. The repository does not
 include the raw API responses (about 1.3 GB), the anonymized press-release texts or any third-party source data.
@@ -147,7 +153,8 @@ python -m spacy download en_core_web_md
 | Rest of stage B | `python s12_stageB_sample.py`; `python s10_agents.py --events ../data/interim/stageB_events.csv --tag B_main --stage B --concurrency 1000`; `python event_files.py merge-b` | `stageB_design.csv`, `agents_stageB_all.csv` (5,000) |
 | Repeat runs and expanded probes | `python s13_repeat_probe_sample.py`<br>`python s10_agents.py --events ../data/interim/repeat_events.csv --tag repeat --stage B --repeats 3`<br>`python s08_probes.py --events ../data/interim/probe_ret_events.csv --tag ret2000 --return-only --car ../data/interim/car_full.csv`<br>`python s09_cutoff_probe.py --events ../data/interim/agents_stageB_all.csv --tag stageB` | `agents_repeat_B.csv`, `probes_ret2000_anon.csv`, `cutoff_probe_stageB.csv` |
 | LM and FinBERT baselines | `python s14_baselines.py` | `baselines.csv` |
-| Analysis | s15-s21, as in the quick replication above | `results/` |
+| Inputs of the review checks (needs the caches above and `llm_raw/`) | `python s22_referee_checks.py --prep` | `event_timing.csv`, `sue_checks.csv`, `q4_validation.csv`, `splits_check.csv`, `llm_runs.csv` |
+| Analysis | s15-s22, as in the quick replication above | `results/` |
 
 `--dry-run N` on `s10_agents.py` prints the prompts of N events without calling the API.
 
